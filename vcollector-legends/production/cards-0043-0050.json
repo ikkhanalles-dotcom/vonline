@@ -1,0 +1,221 @@
+{
+  "format": "vcollector-legends-production-1",
+  "cards": [
+    {
+      "metadata": {
+        "id": "vcl-0044",
+        "number": 44,
+        "set_size": 1000,
+        "name": "Astralune",
+        "rarity": "uncommon",
+        "rarity_label": "Uncommon",
+        "element": "ice",
+        "element_label": "IJs",
+        "hp": 120,
+        "collector_points": 1195,
+        "description": "Een ijswezen met kenmerken van een draak en paard, kristallen hoorns en elegante vleugels en stromende manen en fonkelende hoefslagen.",
+        "origin": "het Kristalrif",
+        "abilities": [
+          {
+            "name": "Rijmslag",
+            "damage": 40,
+            "energy_cost": 2,
+            "effect": "Een gerichte ijsaanval; bevriezing versterkt de uitstraling van deze kaart."
+          },
+          {
+            "name": "Poolnachtstorm",
+            "damage": 80,
+            "energy_cost": 4,
+            "effect": "Een krachtige elementuitbarsting vanuit het Kristalrif."
+          }
+        ],
+        "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+        "editable": false
+      },
+      "prompt": "Use case: stylized-concept. Asset: one complete VCollector Legends trading card, portrait 2:3, 1024x1536.\nInput image is a STYLE AND LAYOUT REFERENCE ONLY. Create a DIFFERENT original creature for this new numbered card. Match the restrained gold/navy frame, clear outlined creature illustration, readable type and two dark ability rows. Cleaner creature silhouette and less sparkle; avoid glitter clutter. Original comic/anime fantasy art, no existing franchise characters.\nCreature: Een ijswezen met kenmerken van een draak en paard, kristallen hoorns en elegante vleugels en stromende manen en fonkelende hoefslagen. Origin/background: het Kristalrif; element IJs. Show its full distinctive silhouette, believable animal anatomy and dynamic pose, with the environment secondary.\nKeep precise card layout from reference. Top-left small VCollector V emblem. Large exact title: \"ASTRALUNE\". Top-right exact \"120\" and \"HP\", with an element symbol. First ability row exact \"Rijmslag\" with exact damage \"40\" aligned right. Second row exact \"Poolnachtstorm\" with exact damage \"80\". Footer rarity exact \"UNCOMMON\"; number exact \"0044 / 1000\". Do not copy the reference card's name, creature, HP, powers, rarity or number. Do not add other stat panels, captions, unrelated text or watermarks. Flat full-bleed card image with all borders inside canvas, no photographed table.",
+      "artwork": {
+        "model": "vcl-0044",
+        "artwork": "/workspace/scratch/713be47bdbf1/cards455/artwork/vcl-0044.webp",
+        "sha256": "177293484fb162edc5d2c76d949251232b6d51a1cc57716c029ae449054bbffd",
+        "bytes": 74284,
+        "quality": 45,
+        "path": "vcollector-legends/art/vcl-0044-177293484fb1.webp",
+        "git_sha": "9712fb6700e9870b3368f477e92799ac5f4e2a09"
+      }
+    },
+    {
+      "metadata": {
+        "id": "vcl-0045",
+        "number": 45,
+        "set_size": 1000,
+        "name": "Thorazuli",
+        "rarity": "common",
+        "rarity_label": "Common",
+        "element": "water",
+        "element_label": "Water",
+        "hp": 110,
+        "collector_points": 310,
+        "description": "Een waterwezen met kenmerken van een vlinder en draak, brede doorschijnende vleugels met oogpatronen en kristallen hoorns en elegante vleugels.",
+        "origin": "de Hemelbruggen",
+        "abilities": [
+          {
+            "name": "Getijdenslag",
+            "damage": 40,
+            "energy_cost": 1,
+            "effect": "Een gerichte wateraanval; vertraging versterkt de uitstraling van deze kaart."
+          },
+          {
+            "name": "Diepzeewervel",
+            "damage": 70,
+            "energy_cost": 3,
+            "effect": "Een krachtige elementuitbarsting vanuit de Hemelbruggen."
+          }
+        ],
+        "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+        "editable": false
+      },
+      "prompt": "Use case: stylized-concept. Asset: one complete VCollector Legends trading card, portrait 2:3, 1024x1536.\nInput image is a STYLE AND LAYOUT REFERENCE ONLY. Create a DIFFERENT original creature for this new numbered card. Match the restrained gold/navy frame, clear outlined creature illustration, readable type and two dark ability rows. Cleaner creature silhouette and less sparkle; avoid glitter clutter. Original comic/anime fantasy art, no existing franchise characters.\nCreature: Een waterwezen met kenmerken van een vlinder en draak, brede doorschijnende vleugels met oogpatronen en kristallen hoorns en elegante vleugels. Origin/background: de Hemelbruggen; element Water. Show its full distinctive silhouette, believable animal anatomy and dynamic pose, with the environment secondary.\nKeep precise card layout from reference. Top-left small VCollector V emblem. Large exact title: \"THORAZULI\". Top-right exact \"110\" and \"HP\", with an element symbol. First ability row exact \"Getijdenslag\" with exact damage \"40\" aligned right. Second row exact \"Diepzeewervel\" with exact damage \"70\". Footer rarity exact \"COMMON\"; number exact \"0045 / 1000\". Do not copy the reference card's name, creature, HP, powers, rarity or number. Do not add other stat panels, captions, unrelated text or watermarks. Flat full-bleed card image with all borders inside canvas, no photographed table.",
+      "artwork": {
+        "model": "vcl-0045",
+        "artwork": "/workspace/scratch/713be47bdbf1/cards455/artwork/vcl-0045.webp",
+        "sha256": "9ce2755705da212ff0d639b363b2e61bd8acad9e124be8ada65999ab92d7bad8",
+        "bytes": 72728,
+        "quality": 45,
+        "path": "vcollector-legends/art/vcl-0045-9ce2755705da.webp",
+        "git_sha": "0b2d568b7fccdd6f855c984085c3f18fbf077842"
+      }
+    },
+    {
+      "metadata": {
+        "id": "vcl-0046",
+        "number": 46,
+        "set_size": 1000,
+        "name": "Feranix",
+        "rarity": "legendary",
+        "rarity_label": "Legendary",
+        "element": "cosmic",
+        "element_label": "Kosmos",
+        "hp": 320,
+        "collector_points": 7975,
+        "description": "Een kosmoswezen met kenmerken van een manta en lynx, vloeiende lintvinnen en een lichtgevende rug en lange oorpluimen en een gespierde katachtige houding.",
+        "origin": "de IJsschervenarchipel",
+        "abilities": [
+          {
+            "name": "Sterrenpuls",
+            "damage": 120,
+            "energy_cost": 5,
+            "effect": "Een gerichte kosmosaanval; sterrenstof versterkt de uitstraling van deze kaart."
+          },
+          {
+            "name": "Kosmische storm",
+            "damage": 210,
+            "energy_cost": 7,
+            "effect": "Een krachtige elementuitbarsting vanuit de IJsschervenarchipel."
+          }
+        ],
+        "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+        "editable": false
+      },
+      "prompt": "Use case: stylized-concept. Asset: one complete VCollector Legends trading card, portrait 2:3, 1024x1536.\nInput image is a STYLE AND LAYOUT REFERENCE ONLY. Create a DIFFERENT original creature for this new numbered card. Match the restrained gold/navy frame, clear outlined creature illustration, readable type and two dark ability rows. Cleaner creature silhouette and less sparkle; avoid glitter clutter. Original comic/anime fantasy art, no existing franchise characters.\nCreature: Een kosmoswezen met kenmerken van een manta en lynx, vloeiende lintvinnen en een lichtgevende rug en lange oorpluimen en een gespierde katachtige houding. Origin/background: de IJsschervenarchipel; element Kosmos. Show its full distinctive silhouette, believable animal anatomy and dynamic pose, with the environment secondary.\nKeep precise card layout from reference. Top-left small VCollector V emblem. Large exact title: \"FERANIX\". Top-right exact \"320\" and \"HP\", with an element symbol. First ability row exact \"Sterrenpuls\" with exact damage \"120\" aligned right. Second row exact \"Kosmische storm\" with exact damage \"210\". Footer rarity exact \"LEGENDARY\"; number exact \"0046 / 1000\". Do not copy the reference card's name, creature, HP, powers, rarity or number. Do not add other stat panels, captions, unrelated text or watermarks. Flat full-bleed card image with all borders inside canvas, no photographed table.",
+      "artwork": {
+        "model": "vcl-0046",
+        "artwork": "/workspace/scratch/713be47bdbf1/cards455/artwork/vcl-0046.webp",
+        "sha256": "587f1d7e22ac0d5de05103b883e06d32915d1d232a62f8bd4c4924bafd30a6da",
+        "bytes": 71374,
+        "quality": 45,
+        "path": "vcollector-legends/art/vcl-0046-587f1d7e22ac.webp",
+        "git_sha": "8f9f2404127bb54f6b9c44196a25ad3c550ad24b"
+      }
+    },
+    {
+      "metadata": {
+        "id": "vcl-0048",
+        "number": 48,
+        "set_size": 1000,
+        "name": "Galaven",
+        "rarity": "ultra-rare",
+        "rarity_label": "Ultra-Rare",
+        "element": "forest",
+        "element_label": "Natuur",
+        "hp": 210,
+        "collector_points": 4060,
+        "description": "Een natuurwezen met kenmerken van een hagedis en panda, een kroon van rugstekels en een lange zwiepstaart en ronde oren en fluwelige contrasterende vacht.",
+        "origin": "de Nachtelijke Tuinen",
+        "abilities": [
+          {
+            "name": "Doornschild",
+            "damage": 100,
+            "energy_cost": 4,
+            "effect": "Een gerichte natuuraanval; wortelgreep versterkt de uitstraling van deze kaart."
+          },
+          {
+            "name": "Woudexplosie",
+            "damage": 170,
+            "energy_cost": 6,
+            "effect": "Een krachtige elementuitbarsting vanuit de Nachtelijke Tuinen."
+          }
+        ],
+        "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+        "editable": false
+      },
+      "prompt": "Use case: stylized-concept. Asset: one complete VCollector Legends trading card, portrait 2:3, 1024x1536.\nInput image is a STYLE AND LAYOUT REFERENCE ONLY. Create a DIFFERENT original creature for this new numbered card. Match the restrained gold/navy frame, clear outlined creature illustration, readable type and two dark ability rows. Cleaner creature silhouette and less sparkle; avoid glitter clutter. Original comic/anime fantasy art, no existing franchise characters.\nCreature: Een natuurwezen met kenmerken van een hagedis en panda, een kroon van rugstekels en een lange zwiepstaart en ronde oren en fluwelige contrasterende vacht. Origin/background: de Nachtelijke Tuinen; element Natuur. Show its full distinctive silhouette, believable animal anatomy and dynamic pose, with the environment secondary.\nKeep precise card layout from reference. Top-left small VCollector V emblem. Large exact title: \"GALAVEN\". Top-right exact \"210\" and \"HP\", with an element symbol. First ability row exact \"Doornschild\" with exact damage \"100\" aligned right. Second row exact \"Woudexplosie\" with exact damage \"170\". Footer rarity exact \"ULTRA-RARE\"; number exact \"0048 / 1000\". Do not copy the reference card's name, creature, HP, powers, rarity or number. Do not add other stat panels, captions, unrelated text or watermarks. Flat full-bleed card image with all borders inside canvas, no photographed table.",
+      "artwork": {
+        "model": "vcl-0048",
+        "artwork": "/workspace/scratch/713be47bdbf1/cards455/artwork/vcl-0048.webp",
+        "sha256": "bb6f51b1e87a1e16ff2f1088ed5c3ac5f654a2d7db59a38cccb55f0b084f31f6",
+        "bytes": 71204,
+        "quality": 50,
+        "path": "vcollector-legends/art/vcl-0048-bb6f51b1e87a.webp",
+        "git_sha": "2adc36095091a6cd74c9de172d3ef0099599552c"
+      }
+    },
+    {
+      "metadata": {
+        "id": "vcl-0050",
+        "number": 50,
+        "set_size": 1000,
+        "name": "Thoranoxi",
+        "rarity": "uncommon",
+        "rarity_label": "Uncommon",
+        "element": "shadow",
+        "element_label": "Schaduw",
+        "hp": 120,
+        "collector_points": 1480,
+        "description": "Een schaduwwezen met kenmerken van een panter en raaf, een slank krachtig lichaam en een zwepende staart en een kraag van glanzende veren en vurige ogen.",
+        "origin": "het Sterrenwoud",
+        "abilities": [
+          {
+            "name": "Schimstap",
+            "damage": 60,
+            "energy_cost": 2,
+            "effect": "Een gerichte schaduwaanval; verblinding versterkt de uitstraling van deze kaart."
+          },
+          {
+            "name": "Nachteclips",
+            "damage": 100,
+            "energy_cost": 4,
+            "effect": "Een krachtige elementuitbarsting vanuit het Sterrenwoud."
+          }
+        ],
+        "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+        "editable": false
+      },
+      "prompt": "Use case: stylized-concept. Asset: one complete VCollector Legends trading card, portrait 2:3, 1024x1536.\nInput image is a STYLE AND LAYOUT REFERENCE ONLY. Create a DIFFERENT original creature for this new numbered card. Match the restrained gold/navy frame, clear outlined creature illustration, readable type and two dark ability rows. Cleaner creature silhouette and less sparkle; avoid glitter clutter. Original comic/anime fantasy art, no existing franchise characters.\nCreature: Een schaduwwezen met kenmerken van een panter en raaf, een slank krachtig lichaam en een zwepende staart en een kraag van glanzende veren en vurige ogen. Origin/background: het Sterrenwoud; element Schaduw. Show its full distinctive silhouette, believable animal anatomy and dynamic pose, with the environment secondary.\nKeep precise card layout from reference. Top-left small VCollector V emblem. Large exact title: \"THORANOXI\". Top-right exact \"120\" and \"HP\", with an element symbol. First ability row exact \"Schimstap\" with exact damage \"60\" aligned right. Second row exact \"Nachteclips\" with exact damage \"100\". Footer rarity exact \"UNCOMMON\"; number exact \"0050 / 1000\". Do not copy the reference card's name, creature, HP, powers, rarity or number. Do not add other stat panels, captions, unrelated text or watermarks. Flat full-bleed card image with all borders inside canvas, no photographed table.",
+      "artwork": {
+        "model": "vcl-0050",
+        "artwork": "/workspace/scratch/713be47bdbf1/cards455/artwork/vcl-0050.webp",
+        "sha256": "33c831330b77d64c765a12f032d621a6297da69d34477e46e5f56d4fc276ed81",
+        "bytes": 73652,
+        "quality": 50,
+        "path": "vcollector-legends/art/vcl-0050-33c831330b77.webp",
+        "git_sha": "948290a2cd8a0e684c919c04b015cc8d7552596d"
+      }
+    }
+  ],
+  "pending": [
+    "vcl-0043",
+    "vcl-0047",
+    "vcl-0049"
+  ],
+  "pending_reason": "Image service HTTP 400: Unknown parameter reasoning"
+}
