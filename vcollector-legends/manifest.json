@@ -202,10 +202,22 @@
       "bytes": 74816
     },
     {
+      "model": "vcl-0034",
+      "path": "vcollector-legends/art/vcl-0034-81920d787c24.webp",
+      "sha256": "81920d787c24c4666f73695dcd059b55f66e50e7c24c76bd324ae44e286ff081",
+      "bytes": 73684
+    },
+    {
       "model": "vcl-0035",
       "path": "vcollector-legends/art/vcl-0035-59cf1c9e974e.webp",
       "sha256": "59cf1c9e974ea8ca7f9e65dc464dd9d1145212fc7771a6ece2893a9090744a9c",
       "bytes": 73270
+    },
+    {
+      "model": "vcl-0036",
+      "path": "vcollector-legends/art/vcl-0036-b2e658b5ebd6.webp",
+      "sha256": "b2e658b5ebd600f841911d0f616c55bdb9a893e6937f744fb075d24799975fac",
+      "bytes": 73398
     }
   ]
 }
