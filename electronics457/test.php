@@ -1,0 +1,13 @@
+<?php
+function check($v,$m){if(!$v)throw new RuntimeException($m);}
+function h($v){return htmlspecialchars((string)$v,ENT_QUOTES,'UTF-8');}function enc($v){return json_encode($v,JSON_UNESCAPED_UNICODE|JSON_UNESCAPED_SLASHES|JSON_THROW_ON_ERROR);}function uid(){return str_repeat('a',32);}function user(){return ['id'=>'owner','role'=>'owner'];}function mb_substr($s,$a,$b){return substr($s,$a,$b);}function mb_stripos($s,$q){return stripos($s,$q);}function fail($m){throw new RuntimeException($m);}function vm415Job($k){return ['data'=>['price'=>1000,'daily'=>20,'enabled'=>true]];}function vm415Attribution($m){return '<small>'.h($m['art']['artist']).' · '.h($m['art']['license']).'</small>';}function vc415Form($op,$fields){$s='<form>';foreach($fields as $k=>$v)$s.='<input name="'.h($k).'" value="'.h($v).'">';return $s;}
+function one($sql,$args=[]){return ['n'=>19];}function rows($sql,$args=[]){return [];}
+require '/electronics457.php';$_SESSION=['csrf'=>'test'];$_GET=[];
+$c=el457Catalog();check(count($c)>=15,'catalogue size');check(count(array_unique(array_column($c,'id')))===count($c),'unique IDs');check(array_sum(array_column(el457Damage(),1))===100,'weights');
+$s=el457Page(user(),'catalog');check(str_contains($s,'Elektronicaschatkist · 1000 VC'),'price');check(str_contains($s,'In bezit: 0'),'owned counts');check(str_contains($s,'data-el457-zoom'),'zoom');check(str_contains($s,'nonce'),'nonce');check(str_contains($s,'1 op 19'),'odds');$t=$_SESSION['vm415quotes'][uid()];check(hash_equals($t['quote'],hash('sha256',enc(['electro',1000,true,20,19]))),'native checkout quote');
+$_GET=['type457'=>'camera','q457'=>'Canon'];$s=el457Page(user(),'catalog');check(str_contains($s,'Canon AE-1'),'filter exact');check(!str_contains($s,'Commodore 64'),'filter excludes');
+$_GET=['q457'=>'<script>alert(1)</script>'];$s=el457Page(user(),'catalog');check(!str_contains($s,'<script>alert(1)</script>'),'escaping');check(str_contains($s,'&lt;script&gt;'),'search escaped');
+$s=el457Page(user(),'mine');check(!str_contains($s,'Elektronicaschatkist'),'mine no checkout');$s=el457Page(user(),'admin');check(str_contains($s,'csrf'),'admin CSRF');
+try{el457Page(['id'=>'x','role'=>'player'],'admin');throw new Exception('unauthorized admin');}catch(RuntimeException $e){check($e->getMessage()==='Alleen hoofdbeheer.','admin forbidden');}
+$menu='<aside><details><summary>Verzamelen</summary><div>old</div></details></aside>';$s=el457Menu($menu);check(substr_count($s,'data-el457-menu')===1,'menu inserted');check(el457Menu($s)===$s,'menu idempotent');
+echo 'PASS catalogue, unique IDs, condition weights, filters, escaping, ownership, native payment quote, zoom hooks, admin permission, CSRF and idempotent menu.';
