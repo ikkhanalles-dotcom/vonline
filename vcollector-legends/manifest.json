@@ -256,6 +256,12 @@
       "bytes": 71790
     },
     {
+      "model": "vcl-0043",
+      "path": "vcollector-legends/art/vcl-0043-8be491de0018.webp",
+      "sha256": "8be491de0018bbe0ee06e91113443d01537f0ea7855bdf790c2200dadc3eb85e",
+      "bytes": 72704
+    },
+    {
       "model": "vcl-0044",
       "path": "vcollector-legends/art/vcl-0044-177293484fb1.webp",
       "sha256": "177293484fb162edc5d2c76d949251232b6d51a1cc57716c029ae449054bbffd",
@@ -274,16 +280,166 @@
       "bytes": 71374
     },
     {
+      "model": "vcl-0047",
+      "path": "vcollector-legends/art/vcl-0047-3f8c9aa0b87c.webp",
+      "sha256": "3f8c9aa0b87c4aa0bc07b88d6b035b4fe7326e8e688c50f197d2d3db44fca739",
+      "bytes": 72564
+    },
+    {
       "model": "vcl-0048",
       "path": "vcollector-legends/art/vcl-0048-bb6f51b1e87a.webp",
       "sha256": "bb6f51b1e87a1e16ff2f1088ed5c3ac5f654a2d7db59a38cccb55f0b084f31f6",
       "bytes": 71204
     },
     {
+      "model": "vcl-0049",
+      "path": "vcollector-legends/art/vcl-0049-de00024b15f3.webp",
+      "sha256": "de00024b15f3551c32e515b7ebe2213655f7ed7d932a115290800a1bec004ebd",
+      "bytes": 73454
+    },
+    {
       "model": "vcl-0050",
       "path": "vcollector-legends/art/vcl-0050-33c831330b77.webp",
       "sha256": "33c831330b77d64c765a12f032d621a6297da69d34477e46e5f56d4fc276ed81",
       "bytes": 73652
+    },
+    {
+      "model": "vcl-0051",
+      "path": "vcollector-legends/art/vcl-0051-1d28d3773414.webp",
+      "sha256": "1d28d37734144f2f55e432297647e226d8e28252d63c60fa7a610f297fd646bb",
+      "bytes": 73884
+    },
+    {
+      "model": "vcl-0052",
+      "path": "vcollector-legends/art/vcl-0052-00e5145d9ed1.webp",
+      "sha256": "00e5145d9ed135ba1031a71c55482697e52b5d9d0c6f5bc2615e1d59d354fe6e",
+      "bytes": 72784
+    },
+    {
+      "model": "vcl-0053",
+      "path": "vcollector-legends/art/vcl-0053-044924edbfb5.webp",
+      "sha256": "044924edbfb5f781718606aa01e272e2b02d57d4a8b34cf2fed12959853e72e6",
+      "bytes": 70652
+    },
+    {
+      "model": "vcl-0054",
+      "path": "vcollector-legends/art/vcl-0054-82a715aee353.webp",
+      "sha256": "82a715aee35333c834258866db976077e118136d15760a29c02c8ab8f9c85a55",
+      "bytes": 73588
+    },
+    {
+      "model": "vcl-0055",
+      "path": "vcollector-legends/art/vcl-0055-93ccfec71706.webp",
+      "sha256": "93ccfec717067eb4b401bac623dd89807aff20810ced452b9186fd9eecaaedcf",
+      "bytes": 70998
+    },
+    {
+      "model": "vcl-0056",
+      "path": "vcollector-legends/art/vcl-0056-638a20cce9f6.webp",
+      "sha256": "638a20cce9f61fe91e2af3672ddae3f001c5d36f16990d40a352168ef5bdbdb6",
+      "bytes": 70726
+    },
+    {
+      "model": "vcl-0057",
+      "path": "vcollector-legends/art/vcl-0057-1ffb5a37c48d.webp",
+      "sha256": "1ffb5a37c48def34b065dac4405b04667f513ba3976095ccce31b8716cfdd192",
+      "bytes": 73952
+    },
+    {
+      "model": "vcl-0058",
+      "path": "vcollector-legends/art/vcl-0058-e32b4ff4d68c.webp",
+      "sha256": "e32b4ff4d68c9fe6a50fe831f816e5052eeb357a1b9b111283eefe6adf037d15",
+      "bytes": 74610
+    },
+    {
+      "model": "vcl-0059",
+      "path": "vcollector-legends/art/vcl-0059-bf1c2c4f28f6.webp",
+      "sha256": "bf1c2c4f28f64a75b24e02cded77eb03842b52090e908a009c0ddfc71a1df1c5",
+      "bytes": 71968
+    },
+    {
+      "model": "vcl-0060",
+      "path": "vcollector-legends/art/vcl-0060-52efb3daad6e.webp",
+      "sha256": "52efb3daad6ed5851f1c794b3996d2420bb195b7188f8e400f59531a5f0f3628",
+      "bytes": 71436
+    },
+    {
+      "model": "vcl-0061",
+      "path": "vcollector-legends/art/vcl-0061-913dd8b0b7d6.webp",
+      "sha256": "913dd8b0b7d64d3656bf9d111d17dcfad3fdd1f4b54330ebe66116c4b9e03ecf",
+      "bytes": 72050
+    },
+    {
+      "model": "vcl-0062",
+      "path": "vcollector-legends/art/vcl-0062-74d4659c7fcc.webp",
+      "sha256": "74d4659c7fcc2627961d357dacf47ed592bb88934c6d66a7e591e97f804094c5",
+      "bytes": 69782
+    },
+    {
+      "model": "vcl-0064",
+      "path": "vcollector-legends/art/vcl-0064-461cb5d3ee82.webp",
+      "sha256": "461cb5d3ee8296704f87d17b9e4164224109ea8caf101fe533c582550ee7d4d7",
+      "bytes": 71988
+    },
+    {
+      "model": "vcl-0065",
+      "path": "vcollector-legends/art/vcl-0065-55fb8eabde67.webp",
+      "sha256": "55fb8eabde671f6cdd7edc4ff2866c28133c147a83f590bcd80752fbd5c60baa",
+      "bytes": 73162
+    },
+    {
+      "model": "vcl-0067",
+      "path": "vcollector-legends/art/vcl-0067-7585eabb549c.webp",
+      "sha256": "7585eabb549cc0bd9e0a9a8ee227c8efa38b4307d4142f0239e1d5d7c52c1650",
+      "bytes": 72558
+    },
+    {
+      "model": "vcl-0068",
+      "path": "vcollector-legends/art/vcl-0068-625f715318f5.webp",
+      "sha256": "625f715318f53a575277931a3051f2177c93d3be5a89e6fb34a874d70dd2ef4c",
+      "bytes": 73056
+    },
+    {
+      "model": "vcl-0071",
+      "path": "vcollector-legends/art/vcl-0071-d6bd7fe89e47.webp",
+      "sha256": "d6bd7fe89e476f04718a395157f1b1ad1c17d42043b9648acb98efbbea9b9041",
+      "bytes": 73872
+    },
+    {
+      "model": "vcl-0072",
+      "path": "vcollector-legends/art/vcl-0072-a957d9a55203.webp",
+      "sha256": "a957d9a55203c769a1cd84538d337440641f5b93807e52c080e9f2ee0407d690",
+      "bytes": 73208
+    },
+    {
+      "model": "vcl-0073",
+      "path": "vcollector-legends/art/vcl-0073-932a0b412e71.webp",
+      "sha256": "932a0b412e7198567b6fda8586e7ed59be6f28aaa2fb314cf2cc74f587d7f177",
+      "bytes": 73796
+    },
+    {
+      "model": "vcl-0074",
+      "path": "vcollector-legends/art/vcl-0074-1fc91607848e.webp",
+      "sha256": "1fc91607848e22e671c8abeb8abfeb1b3dd4081f25d8e469952fce6055f6bffe",
+      "bytes": 71828
+    },
+    {
+      "model": "vcl-0075",
+      "path": "vcollector-legends/art/vcl-0075-92a93a3baa37.webp",
+      "sha256": "92a93a3baa37c743c426771374c00805902fe774617bb4519c4f0db70d2c6f97",
+      "bytes": 74966
+    },
+    {
+      "model": "vcl-0076",
+      "path": "vcollector-legends/art/vcl-0076-68ed22dda21a.webp",
+      "sha256": "68ed22dda21a2fabd915fbb749bb58b56f2723d29571ceabdc61b116e9908193",
+      "bytes": 72552
+    },
+    {
+      "model": "vcl-0077",
+      "path": "vcollector-legends/art/vcl-0077-cdeff9881175.webp",
+      "sha256": "cdeff98811755c7b1385478e6645327f2167487894fc0ef07f5465f9447523dd",
+      "bytes": 71768
     }
   ]
 }
