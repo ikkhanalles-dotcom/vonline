@@ -4,7 +4,7 @@ declare(strict_types=1);
  $root=dirname(__DIR__);require_once $root.'/patch415.php';
  foreach(['vm415Kind','vm415Title','vm415Damage','vm415Page','vm415Details','vc415Art','vc415Dispatch','vc415Menu','co429Catalog','hwChange326','ccMeta262','ppBind333'] as $f)if(!function_exists($f))throw new RuntimeException('Elektronica vereist de bestaande VCollector-verzamelmodule: '.$f);
  $catalog=json_decode(file_get_contents($root.'/electronics457-catalog.json'),true,64,JSON_THROW_ON_ERROR);if(($catalog['format']??'')!=='vcollector-electronics-457'||count($catalog['items']??[])<15)throw new RuntimeException('Elektronicacatalogus is onvolledig.');
- foreach($catalog['items'] as $m){$asset=(string)($m['art']['image']??'');if(!preg_match('~^/assets/electronics457/[a-z0-9-]+\.webp$~D',$asset)||!is_file(dirname($root).'/public_html'.$asset)||!hash_equals($m['art']['sha256'],hash_file('sha256',dirname($root).'/public_html'.$asset)))throw new RuntimeException('Elektronicafoto ontbreekt of wijkt af.');}
+ foreach($catalog['items'] as $m){$asset=(string)($m['art']['image']??'');if(!preg_match('~^/assets/el457-[a-z0-9-]+\.webp$~D',$asset)||!is_file(dirname($root).'/public_html'.$asset)||!hash_equals($m['art']['sha256'],hash_file('sha256',dirname($root).'/public_html'.$asset)))throw new RuntimeException('Elektronicafoto ontbreekt of wijkt af.');}
  $require="require_once __DIR__.'/electronics457.php'; ";
  $hooks=[
  'vm415Kind'=>"if(func_get_arg(0)==='electro')return 'electro';",
