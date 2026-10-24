@@ -1,0 +1,1809 @@
+{
+  "format": "vcollector-legends-production-1",
+  "first": 163,
+  "last": 212,
+  "count": 50,
+  "style": "Crisp comic/anime outlines, readable creature, restrained gold/navy frame, uncluttered background, less glitter.",
+  "cards": [
+    {
+      "id": "vcl-0163",
+      "number": 163,
+      "set_size": 1000,
+      "name": "Pyralune",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "light",
+      "element_label": "Licht",
+      "hp": 100,
+      "collector_points": 1360,
+      "description": "Een lichtwezen met kenmerken van een walvis en draak, een massief zwevend silhouet en sterren op de flanken en kristallen hoorns en elegante vleugels.",
+      "origin": "de Vergeten Bibliotheek",
+      "abilities": [
+        {
+          "name": "Zonnestraal",
+          "damage": 40,
+          "energy_cost": 2,
+          "effect": "Een gerichte lichtaanval; herstel versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Ochtendglorie",
+          "damage": 60,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Vergeten Bibliotheek."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0163",
+        "path": "vcollector-legends/art/vcl-0163-1e027c3cba4c.webp",
+        "sha256": "1e027c3cba4c6010515659bd5c050d951f6e85dd611e5cd10fb631c33101519e",
+        "bytes": 69860
+      }
+    },
+    {
+      "id": "vcl-0164",
+      "number": 164,
+      "set_size": 1000,
+      "name": "Aerodori",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "earth",
+      "element_label": "Aarde",
+      "hp": 130,
+      "collector_points": 340,
+      "description": "Een aardewezen met kenmerken van een slang en lynx, een kronkelend lang lichaam en sierlijke schubben en lange oorpluimen en een gespierde katachtige houding.",
+      "origin": "het Kristalrif",
+      "abilities": [
+        {
+          "name": "Rotswacht",
+          "damage": 60,
+          "energy_cost": 1,
+          "effect": "Een gerichte aardeaanval; pantser versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Bergbreker",
+          "damage": 110,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Kristalrif."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0164",
+        "path": "vcollector-legends/art/vcl-0164-699bb31a6e34.webp",
+        "sha256": "699bb31a6e344c835d217bc48872214d763804fe2bdd96bbf66cc4ce6ee554c0",
+        "bytes": 67446
+      }
+    },
+    {
+      "id": "vcl-0165",
+      "number": 165,
+      "set_size": 1000,
+      "name": "Nyxathys",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "water",
+      "element_label": "Water",
+      "hp": 170,
+      "collector_points": 940,
+      "description": "Een waterwezen met kenmerken van een draak en manta, kristallen hoorns en elegante vleugels en vloeiende lintvinnen en een lichtgevende rug.",
+      "origin": "de Hemelbruggen",
+      "abilities": [
+        {
+          "name": "Getijdenslag",
+          "damage": 80,
+          "energy_cost": 2,
+          "effect": "Een gerichte wateraanval; vertraging versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Diepzeewervel",
+          "damage": 130,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Hemelbruggen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0165",
+        "path": "vcollector-legends/art/vcl-0165-e4c400bf5422.webp",
+        "sha256": "e4c400bf5422e4b242cec9f9a4d60d762d6b91f7806b80a2974a15c9eb80f521",
+        "bytes": 71884
+      }
+    },
+    {
+      "id": "vcl-0166",
+      "number": 166,
+      "set_size": 1000,
+      "name": "Corvarion",
+      "rarity": "rare",
+      "rarity_label": "Rare",
+      "element": "lightning",
+      "element_label": "Bliksem",
+      "hp": 140,
+      "collector_points": 2800,
+      "description": "Een bliksemwezen met kenmerken van een vlinder en panda, brede doorschijnende vleugels met oogpatronen en ronde oren en fluwelige contrasterende vacht.",
+      "origin": "de IJsschervenarchipel",
+      "abilities": [
+        {
+          "name": "Bliksemsprong",
+          "damage": 70,
+          "energy_cost": 3,
+          "effect": "Een gerichte bliksemaanval; siddering versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Stroomstorm",
+          "damage": 90,
+          "energy_cost": 5,
+          "effect": "Een krachtige elementuitbarsting vanuit de IJsschervenarchipel."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0166",
+        "path": "vcollector-legends/art/vcl-0166-61f694bfa390.webp",
+        "sha256": "61f694bfa390d3468cf7d3c63df98ab80755074e29bea2d16b4c466553259075",
+        "bytes": 69268
+      }
+    },
+    {
+      "id": "vcl-0167",
+      "number": 167,
+      "set_size": 1000,
+      "name": "Quarkira",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "shadow",
+      "element_label": "Schaduw",
+      "hp": 140,
+      "collector_points": 505,
+      "description": "Een schaduwwezen met kenmerken van een manta en hagedis, vloeiende lintvinnen en een lichtgevende rug en een kroon van rugstekels en een lange zwiepstaart.",
+      "origin": "de Koperen Hoogvlakte",
+      "abilities": [
+        {
+          "name": "Schimstap",
+          "damage": 60,
+          "energy_cost": 2,
+          "effect": "Een gerichte schaduwaanval; verblinding versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Nachteclips",
+          "damage": 90,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Koperen Hoogvlakte."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0167",
+        "path": "vcollector-legends/art/vcl-0167-e911386d2626.webp",
+        "sha256": "e911386d2626b5f95b0190f66d2da9262ef342f0ccc3083087159fa7f6ff8536",
+        "bytes": 71930
+      }
+    },
+    {
+      "id": "vcl-0168",
+      "number": 168,
+      "set_size": 1000,
+      "name": "Glacirith",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "ice",
+      "element_label": "IJs",
+      "hp": 120,
+      "collector_points": 445,
+      "description": "Een ijswezen met kenmerken van een vos en raaf, weelderige staart en grote expressieve oren en een kraag van glanzende veren en vurige ogen.",
+      "origin": "de Nachtelijke Tuinen",
+      "abilities": [
+        {
+          "name": "Rijmslag",
+          "damage": 50,
+          "energy_cost": 1,
+          "effect": "Een gerichte ijsaanval; bevriezing versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Poolnachtstorm",
+          "damage": 110,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Nachtelijke Tuinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0168",
+        "path": "vcollector-legends/art/vcl-0168-447c8472537f.webp",
+        "sha256": "447c8472537fb0d13c8fa30db23c074aa7a7d7d7d1dfe3ac4248137b48017470",
+        "bytes": 68280
+      }
+    },
+    {
+      "id": "vcl-0169",
+      "number": 169,
+      "set_size": 1000,
+      "name": "Feramiko",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "fire",
+      "element_label": "Vuur",
+      "hp": 130,
+      "collector_points": 205,
+      "description": "Een vuurwezen met kenmerken van een hagedis en panter, een kroon van rugstekels en een lange zwiepstaart en een slank krachtig lichaam en een zwepende staart.",
+      "origin": "de Zonneduinen",
+      "abilities": [
+        {
+          "name": "Vonkenspoor",
+          "damage": 70,
+          "energy_cost": 1,
+          "effect": "Een gerichte vuuraanval; brand versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Infernogolf",
+          "damage": 90,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Zonneduinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0169",
+        "path": "vcollector-legends/art/vcl-0169-d0db0c179e10.webp",
+        "sha256": "d0db0c179e10c95ed2b0357e362dcb17ecb8bd6805ff8b9976fd8059a6b10d67",
+        "bytes": 68796
+      }
+    },
+    {
+      "id": "vcl-0170",
+      "number": 170,
+      "set_size": 1000,
+      "name": "Teranix",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "light",
+      "element_label": "Licht",
+      "hp": 90,
+      "collector_points": 55,
+      "description": "Een lichtwezen met kenmerken van een schildpad en wolf, facetten in een monumentaal pantser en gelaagde manen en brede beschermende poten.",
+      "origin": "het Sterrenwoud",
+      "abilities": [
+        {
+          "name": "Zonnestraal",
+          "damage": 50,
+          "energy_cost": 1,
+          "effect": "Een gerichte lichtaanval; herstel versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Ochtendglorie",
+          "damage": 70,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Sterrenwoud."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0170",
+        "path": "vcollector-legends/art/vcl-0170-f0e5e9453974.webp",
+        "sha256": "f0e5e9453974050952138b051080e9904c4eb650c6dc755141698aaf295309e6",
+        "bytes": 68160
+      }
+    },
+    {
+      "id": "vcl-0171",
+      "number": 171,
+      "set_size": 1000,
+      "name": "Orbiryx",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "earth",
+      "element_label": "Aarde",
+      "hp": 110,
+      "collector_points": 460,
+      "description": "Een aardewezen met kenmerken van een vos en hert, weelderige staart en grote expressieve oren en vertakt lichtgevend gewei en sierlijke hoeven.",
+      "origin": "de Maanvallei",
+      "abilities": [
+        {
+          "name": "Rotswacht",
+          "damage": 50,
+          "energy_cost": 1,
+          "effect": "Een gerichte aardeaanval; pantser versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Bergbreker",
+          "damage": 90,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Maanvallei."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0171",
+        "path": "vcollector-legends/art/vcl-0171-0ec4010c23f0.webp",
+        "sha256": "0ec4010c23f083daeb621f031faaf0fad66735baf77d1fcfa8c7b0a7dc84be21",
+        "bytes": 68912
+      }
+    },
+    {
+      "id": "vcl-0172",
+      "number": 172,
+      "set_size": 1000,
+      "name": "Nyxanoxi",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "water",
+      "element_label": "Water",
+      "hp": 130,
+      "collector_points": 745,
+      "description": "Een waterwezen met kenmerken van een hagedis en valk, een kroon van rugstekels en een lange zwiepstaart en gestroomlijnde kop en lange gelaagde vleugels.",
+      "origin": "het Fluistermoeras",
+      "abilities": [
+        {
+          "name": "Getijdenslag",
+          "damage": 70,
+          "energy_cost": 2,
+          "effect": "Een gerichte wateraanval; vertraging versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Diepzeewervel",
+          "damage": 80,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit het Fluistermoeras."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0172",
+        "path": "vcollector-legends/art/vcl-0172-892ef3006c05.webp",
+        "sha256": "892ef3006c05242ec18c681f42b85e327a86a6e6b2ce1a0755f28aa36a666020",
+        "bytes": 69890
+      }
+    },
+    {
+      "id": "vcl-0173",
+      "number": 173,
+      "set_size": 1000,
+      "name": "Floratari",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "cosmic",
+      "element_label": "Kosmos",
+      "hp": 130,
+      "collector_points": 100,
+      "description": "Een kosmoswezen met kenmerken van een schildpad en beer, facetten in een monumentaal pantser en een imposant silhouet en dikke glanzende vacht.",
+      "origin": "de Vergeten Bibliotheek",
+      "abilities": [
+        {
+          "name": "Sterrenpuls",
+          "damage": 50,
+          "energy_cost": 1,
+          "effect": "Een gerichte kosmosaanval; sterrenstof versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Kosmische storm",
+          "damage": 90,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Vergeten Bibliotheek."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0173",
+        "path": "vcollector-legends/art/vcl-0173-d959a6f62871.webp",
+        "sha256": "d959a6f6287103eb89077b179e03f0095828a392631cc07aae99f372f1775943",
+        "bytes": 71078
+      }
+    },
+    {
+      "id": "vcl-0174",
+      "number": 174,
+      "set_size": 1000,
+      "name": "Mycodori",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "wind",
+      "element_label": "Wind",
+      "hp": 70,
+      "collector_points": 475,
+      "description": "Een windwezen met kenmerken van een panter en walvis, een slank krachtig lichaam en een zwepende staart en een massief zwevend silhouet en sterren op de flanken.",
+      "origin": "het Kristalrif",
+      "abilities": [
+        {
+          "name": "Windstoot",
+          "damage": 40,
+          "energy_cost": 1,
+          "effect": "Een gerichte windaanval; ontwijking versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Hemelwervel",
+          "damage": 50,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Kristalrif."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0174",
+        "path": "vcollector-legends/art/vcl-0174-872afcb69a93.webp",
+        "sha256": "872afcb69a93fc9dad1f9a839202269863f8abc54807b9990fedde6a2d13313f",
+        "bytes": 70666
+      }
+    },
+    {
+      "id": "vcl-0175",
+      "number": 175,
+      "set_size": 1000,
+      "name": "Galadori",
+      "rarity": "rare",
+      "rarity_label": "Rare",
+      "element": "forest",
+      "element_label": "Natuur",
+      "hp": 150,
+      "collector_points": 2290,
+      "description": "Een natuurwezen met kenmerken van een beer en paard, een imposant silhouet en dikke glanzende vacht en stromende manen en fonkelende hoefslagen.",
+      "origin": "de Hemelbruggen",
+      "abilities": [
+        {
+          "name": "Doornschild",
+          "damage": 70,
+          "energy_cost": 3,
+          "effect": "Een gerichte natuuraanval; wortelgreep versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Woudexplosie",
+          "damage": 130,
+          "energy_cost": 5,
+          "effect": "Een krachtige elementuitbarsting vanuit de Hemelbruggen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0175",
+        "path": "vcollector-legends/art/vcl-0175-0eed712720a2.webp",
+        "sha256": "0eed712720a2e4637a908588de0ea78bbfa239168ec8d610ee598f4c1639524e",
+        "bytes": 71264
+      }
+    },
+    {
+      "id": "vcl-0176",
+      "number": 176,
+      "set_size": 1000,
+      "name": "Dunelith",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "lightning",
+      "element_label": "Bliksem",
+      "hp": 120,
+      "collector_points": 685,
+      "description": "Een bliksemwezen met kenmerken van een hert en draak, vertakt lichtgevend gewei en sierlijke hoeven en kristallen hoorns en elegante vleugels.",
+      "origin": "de IJsschervenarchipel",
+      "abilities": [
+        {
+          "name": "Bliksemsprong",
+          "damage": 40,
+          "energy_cost": 2,
+          "effect": "Een gerichte bliksemaanval; siddering versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Stroomstorm",
+          "damage": 100,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de IJsschervenarchipel."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0176",
+        "path": "vcollector-legends/art/vcl-0176-a9c9fcaa2cb6.webp",
+        "sha256": "a9c9fcaa2cb6f2f22e85094756a089b618f582bdd9b557e6448e2c255ff9e6f5",
+        "bytes": 68184
+      }
+    },
+    {
+      "id": "vcl-0177",
+      "number": 177,
+      "set_size": 1000,
+      "name": "Terathys",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "light",
+      "element_label": "Licht",
+      "hp": 120,
+      "collector_points": 415,
+      "description": "Een lichtwezen met kenmerken van een paard en lynx, stromende manen en fonkelende hoefslagen en lange oorpluimen en een gespierde katachtige houding.",
+      "origin": "de Koperen Hoogvlakte",
+      "abilities": [
+        {
+          "name": "Zonnestraal",
+          "damage": 40,
+          "energy_cost": 1,
+          "effect": "Een gerichte lichtaanval; herstel versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Ochtendglorie",
+          "damage": 100,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Koperen Hoogvlakte."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0177",
+        "path": "vcollector-legends/art/vcl-0177-3422ee76af63.webp",
+        "sha256": "3422ee76af63c998452fabfd4995b74fafb53fa7bcbf69016eaa6666d2191bf5",
+        "bytes": 68742
+      }
+    },
+    {
+      "id": "vcl-0178",
+      "number": 178,
+      "set_size": 1000,
+      "name": "Corvatora",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "earth",
+      "element_label": "Aarde",
+      "hp": 170,
+      "collector_points": 940,
+      "description": "Een aardewezen met kenmerken van een haas en manta, lange oren en springkrachtige achterpoten en vloeiende lintvinnen en een lichtgevende rug.",
+      "origin": "de Nachtelijke Tuinen",
+      "abilities": [
+        {
+          "name": "Rotswacht",
+          "damage": 70,
+          "energy_cost": 2,
+          "effect": "Een gerichte aardeaanval; pantser versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Bergbreker",
+          "damage": 110,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Nachtelijke Tuinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0178",
+        "path": "vcollector-legends/art/vcl-0178-cb2b692410cf.webp",
+        "sha256": "cb2b692410cf25228e03989b2f671809511f6cb479c70bab3d209ca610550064",
+        "bytes": 71588
+      }
+    },
+    {
+      "id": "vcl-0179",
+      "number": 179,
+      "set_size": 1000,
+      "name": "Eiralune",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "water",
+      "element_label": "Water",
+      "hp": 110,
+      "collector_points": 340,
+      "description": "Een waterwezen met kenmerken van een lynx en panda, lange oorpluimen en een gespierde katachtige houding en ronde oren en fluwelige contrasterende vacht.",
+      "origin": "de Zonneduinen",
+      "abilities": [
+        {
+          "name": "Getijdenslag",
+          "damage": 50,
+          "energy_cost": 1,
+          "effect": "Een gerichte wateraanval; vertraging versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Diepzeewervel",
+          "damage": 90,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Zonneduinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0179",
+        "path": "vcollector-legends/art/vcl-0179-9e108782d139.webp",
+        "sha256": "9e108782d1397d74399e7c59f5da29926e0c23af061ee973c2451e6066199ea5",
+        "bytes": 70420
+      }
+    },
+    {
+      "id": "vcl-0180",
+      "number": 180,
+      "set_size": 1000,
+      "name": "Aerorion",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "cosmic",
+      "element_label": "Kosmos",
+      "hp": 70,
+      "collector_points": 190,
+      "description": "Een kosmoswezen met kenmerken van een ram en hagedis, spiraalhoorns met gegraveerde patronen en een kroon van rugstekels en een lange zwiepstaart.",
+      "origin": "het Sterrenwoud",
+      "abilities": [
+        {
+          "name": "Sterrenpuls",
+          "damage": 30,
+          "energy_cost": 1,
+          "effect": "Een gerichte kosmosaanval; sterrenstof versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Kosmische storm",
+          "damage": 60,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Sterrenwoud."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0180",
+        "path": "vcollector-legends/art/vcl-0180-947d3483ee88.webp",
+        "sha256": "947d3483ee88d3da45b1149d4604a0c5390f3dc233646db072dddb081cceffc7",
+        "bytes": 70554
+      }
+    },
+    {
+      "id": "vcl-0181",
+      "number": 181,
+      "set_size": 1000,
+      "name": "Brumavex",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "wind",
+      "element_label": "Wind",
+      "hp": 160,
+      "collector_points": 1120,
+      "description": "Een windwezen met kenmerken van een panda en raaf, ronde oren en fluwelige contrasterende vacht en een kraag van glanzende veren en vurige ogen.",
+      "origin": "de Maanvallei",
+      "abilities": [
+        {
+          "name": "Windstoot",
+          "damage": 60,
+          "energy_cost": 2,
+          "effect": "Een gerichte windaanval; ontwijking versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Hemelwervel",
+          "damage": 130,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Maanvallei."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0181",
+        "path": "vcollector-legends/art/vcl-0181-5bd53ec84bc7.webp",
+        "sha256": "5bd53ec84bc775c7f56ab265dbf2bc6e1e9ef8c080aff9c767470ea82abd73c6",
+        "bytes": 70092
+      }
+    },
+    {
+      "id": "vcl-0182",
+      "number": 182,
+      "set_size": 1000,
+      "name": "Cindravara",
+      "rarity": "ultra-rare",
+      "rarity_label": "Ultra-Rare",
+      "element": "forest",
+      "element_label": "Natuur",
+      "hp": 180,
+      "collector_points": 3850,
+      "description": "Een natuurwezen met kenmerken van een uil en panter, zwevende veerkrans en glanzende slagpennen en een slank krachtig lichaam en een zwepende staart.",
+      "origin": "het Fluistermoeras",
+      "abilities": [
+        {
+          "name": "Doornschild",
+          "damage": 90,
+          "energy_cost": 4,
+          "effect": "Een gerichte natuuraanval; wortelgreep versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Woudexplosie",
+          "damage": 130,
+          "energy_cost": 6,
+          "effect": "Een krachtige elementuitbarsting vanuit het Fluistermoeras."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0182",
+        "path": "vcollector-legends/art/vcl-0182-da8237d9ac7d.webp",
+        "sha256": "da8237d9ac7d824e80a81c527ffae51cf2530f8e200247c6c0ce52afb3129d82",
+        "bytes": 69932
+      }
+    },
+    {
+      "id": "vcl-0183",
+      "number": 183,
+      "set_size": 1000,
+      "name": "Aeroven",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "lightning",
+      "element_label": "Bliksem",
+      "hp": 150,
+      "collector_points": 1495,
+      "description": "Een bliksemwezen met kenmerken van een raaf en wolf, een kraag van glanzende veren en vurige ogen en gelaagde manen en brede beschermende poten.",
+      "origin": "de Vergeten Bibliotheek",
+      "abilities": [
+        {
+          "name": "Bliksemsprong",
+          "damage": 60,
+          "energy_cost": 2,
+          "effect": "Een gerichte bliksemaanval; siddering versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Stroomstorm",
+          "damage": 100,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Vergeten Bibliotheek."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0183",
+        "path": "vcollector-legends/art/vcl-0183-bcc0f836af76.webp",
+        "sha256": "bcc0f836af7650be5cdea743d882a7737ca0c23d8629acc707702c9ababe32e4",
+        "bytes": 69892
+      }
+    },
+    {
+      "id": "vcl-0184",
+      "number": 184,
+      "set_size": 1000,
+      "name": "Koralith",
+      "rarity": "ultra-rare",
+      "rarity_label": "Ultra-Rare",
+      "element": "shadow",
+      "element_label": "Schaduw",
+      "hp": 210,
+      "collector_points": 5605,
+      "description": "Een schaduwwezen met kenmerken van een valk en hert, gestroomlijnde kop en lange gelaagde vleugels en vertakt lichtgevend gewei en sierlijke hoeven.",
+      "origin": "het Kristalrif",
+      "abilities": [
+        {
+          "name": "Schimstap",
+          "damage": 90,
+          "energy_cost": 4,
+          "effect": "Een gerichte schaduwaanval; verblinding versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Nachteclips",
+          "damage": 150,
+          "energy_cost": 6,
+          "effect": "Een krachtige elementuitbarsting vanuit het Kristalrif."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0184",
+        "path": "vcollector-legends/art/vcl-0184-1d1d740d5c1d.webp",
+        "sha256": "1d1d740d5c1d3aa43df0a66f839af30563e3186a2dbcc13b165e317de04c2cef",
+        "bytes": 71952
+      }
+    },
+    {
+      "id": "vcl-0185",
+      "number": 185,
+      "set_size": 1000,
+      "name": "Lyravyn",
+      "rarity": "ultra-rare",
+      "rarity_label": "Ultra-Rare",
+      "element": "ice",
+      "element_label": "IJs",
+      "hp": 270,
+      "collector_points": 5095,
+      "description": "Een ijswezen met kenmerken van een wolf en slang, gelaagde manen en brede beschermende poten en een kronkelend lang lichaam en sierlijke schubben.",
+      "origin": "de Hemelbruggen",
+      "abilities": [
+        {
+          "name": "Rijmslag",
+          "damage": 100,
+          "energy_cost": 4,
+          "effect": "Een gerichte ijsaanval; bevriezing versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Poolnachtstorm",
+          "damage": 200,
+          "energy_cost": 6,
+          "effect": "Een krachtige elementuitbarsting vanuit de Hemelbruggen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0185",
+        "path": "vcollector-legends/art/vcl-0185-8e014c7a0ca4.webp",
+        "sha256": "8e014c7a0ca467a6dd8454a93929dfe30fccce4743e1acb733ed35b9ac9bf62a",
+        "bytes": 70038
+      }
+    },
+    {
+      "id": "vcl-0186",
+      "number": 186,
+      "set_size": 1000,
+      "name": "Galarith",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "fire",
+      "element_label": "Vuur",
+      "hp": 130,
+      "collector_points": 85,
+      "description": "Een vuurwezen met kenmerken van een walvis en haas, een massief zwevend silhouet en sterren op de flanken en lange oren en springkrachtige achterpoten.",
+      "origin": "de IJsschervenarchipel",
+      "abilities": [
+        {
+          "name": "Vonkenspoor",
+          "damage": 60,
+          "energy_cost": 1,
+          "effect": "Een gerichte vuuraanval; brand versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Infernogolf",
+          "damage": 90,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de IJsschervenarchipel."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0186",
+        "path": "vcollector-legends/art/vcl-0186-6555df93b3e1.webp",
+        "sha256": "6555df93b3e1444c732a93db14bf90fe389c01638a3191e2830eb8aa632685c5",
+        "bytes": 69010
+      }
+    },
+    {
+      "id": "vcl-0187",
+      "number": 187,
+      "set_size": 1000,
+      "name": "Solanori",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "light",
+      "element_label": "Licht",
+      "hp": 60,
+      "collector_points": 490,
+      "description": "Een lichtwezen met kenmerken van een slang en vlinder, een kronkelend lang lichaam en sierlijke schubben en brede doorschijnende vleugels met oogpatronen.",
+      "origin": "de Koperen Hoogvlakte",
+      "abilities": [
+        {
+          "name": "Zonnestraal",
+          "damage": 40,
+          "energy_cost": 1,
+          "effect": "Een gerichte lichtaanval; herstel versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Ochtendglorie",
+          "damage": 50,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Koperen Hoogvlakte."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0187",
+        "path": "vcollector-legends/art/vcl-0187-3d4d84cf76a8.webp",
+        "sha256": "3d4d84cf76a84b7709ac1736dddcaf4afc0253497e7f04e1a7cc2010e76167a9",
+        "bytes": 68876
+      }
+    },
+    {
+      "id": "vcl-0188",
+      "number": 188,
+      "set_size": 1000,
+      "name": "Galadrax",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "wind",
+      "element_label": "Wind",
+      "hp": 90,
+      "collector_points": 355,
+      "description": "Een windwezen met kenmerken van een wolf en ram, gelaagde manen en brede beschermende poten en spiraalhoorns met gegraveerde patronen.",
+      "origin": "de Nachtelijke Tuinen",
+      "abilities": [
+        {
+          "name": "Windstoot",
+          "damage": 30,
+          "energy_cost": 1,
+          "effect": "Een gerichte windaanval; ontwijking versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Hemelwervel",
+          "damage": 80,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Nachtelijke Tuinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0188",
+        "path": "vcollector-legends/art/vcl-0188-fee78fd2073a.webp",
+        "sha256": "fee78fd2073ab2db8ed984f371bec8eae6897b8dd90c4eaf7206318bdf058e25",
+        "bytes": 68546
+      }
+    },
+    {
+      "id": "vcl-0189",
+      "number": 189,
+      "set_size": 1000,
+      "name": "Eirarith",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "forest",
+      "element_label": "Natuur",
+      "hp": 120,
+      "collector_points": 325,
+      "description": "Een natuurwezen met kenmerken van een walvis en vos, een massief zwevend silhouet en sterren op de flanken en weelderige staart en grote expressieve oren.",
+      "origin": "de Zonneduinen",
+      "abilities": [
+        {
+          "name": "Doornschild",
+          "damage": 60,
+          "energy_cost": 1,
+          "effect": "Een gerichte natuuraanval; wortelgreep versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Woudexplosie",
+          "damage": 80,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Zonneduinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0189",
+        "path": "vcollector-legends/art/vcl-0189-2dd8b5b207a5.webp",
+        "sha256": "2dd8b5b207a58d2df9144c56ed6769c48a7252e5fb7636020cf28e42b77692e7",
+        "bytes": 70786
+      }
+    },
+    {
+      "id": "vcl-0190",
+      "number": 190,
+      "set_size": 1000,
+      "name": "Borasora",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "lightning",
+      "element_label": "Bliksem",
+      "hp": 60,
+      "collector_points": 325,
+      "description": "Een bliksemwezen met kenmerken van een slang en uil, een kronkelend lang lichaam en sierlijke schubben en zwevende veerkrans en glanzende slagpennen.",
+      "origin": "het Sterrenwoud",
+      "abilities": [
+        {
+          "name": "Bliksemsprong",
+          "damage": 20,
+          "energy_cost": 1,
+          "effect": "Een gerichte bliksemaanval; siddering versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Stroomstorm",
+          "damage": 60,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Sterrenwoud."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0190",
+        "path": "vcollector-legends/art/vcl-0190-3855bc2ad05b.webp",
+        "sha256": "3855bc2ad05b4d142697ad7f3fc9877c88addaafa8282c73cc604951032b7420",
+        "bytes": 67860
+      }
+    },
+    {
+      "id": "vcl-0191",
+      "number": 191,
+      "set_size": 1000,
+      "name": "Aeronara",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "shadow",
+      "element_label": "Schaduw",
+      "hp": 100,
+      "collector_points": 880,
+      "description": "Een schaduwwezen met kenmerken van een draak en manta, kristallen hoorns en elegante vleugels en vloeiende lintvinnen en een lichtgevende rug.",
+      "origin": "de Maanvallei",
+      "abilities": [
+        {
+          "name": "Schimstap",
+          "damage": 50,
+          "energy_cost": 2,
+          "effect": "Een gerichte schaduwaanval; verblinding versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Nachteclips",
+          "damage": 70,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Maanvallei."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0191",
+        "path": "vcollector-legends/art/vcl-0191-e5a7e87b944d.webp",
+        "sha256": "e5a7e87b944d583a7c0502b00ddce43a60dfe3e2279cdec1298aaf7325f8f487",
+        "bytes": 70720
+      }
+    },
+    {
+      "id": "vcl-0192",
+      "number": 192,
+      "set_size": 1000,
+      "name": "Nyxavex",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "ice",
+      "element_label": "IJs",
+      "hp": 100,
+      "collector_points": 295,
+      "description": "Een ijswezen met kenmerken van een vlinder en panda, brede doorschijnende vleugels met oogpatronen en ronde oren en fluwelige contrasterende vacht.",
+      "origin": "het Fluistermoeras",
+      "abilities": [
+        {
+          "name": "Rijmslag",
+          "damage": 40,
+          "energy_cost": 1,
+          "effect": "Een gerichte ijsaanval; bevriezing versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Poolnachtstorm",
+          "damage": 90,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Fluistermoeras."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0192",
+        "path": "vcollector-legends/art/vcl-0192-749b80f39e97.webp",
+        "sha256": "749b80f39e97b930aea5275325517f51bb570fe15d1affe358e68610d2ad2d4b",
+        "bytes": 69334
+      }
+    },
+    {
+      "id": "vcl-0193",
+      "number": 193,
+      "set_size": 1000,
+      "name": "Solavara",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "fire",
+      "element_label": "Vuur",
+      "hp": 130,
+      "collector_points": 1480,
+      "description": "Een vuurwezen met kenmerken van een manta en hagedis, vloeiende lintvinnen en een lichtgevende rug en een kroon van rugstekels en een lange zwiepstaart.",
+      "origin": "de Vergeten Bibliotheek",
+      "abilities": [
+        {
+          "name": "Vonkenspoor",
+          "damage": 70,
+          "energy_cost": 2,
+          "effect": "Een gerichte vuuraanval; brand versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Infernogolf",
+          "damage": 80,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Vergeten Bibliotheek."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0193",
+        "path": "vcollector-legends/art/vcl-0193-78b6fc0db7be.webp",
+        "sha256": "78b6fc0db7be52a74bec3ce4ec41209f86d9bc4efbc76e1cc756b2be561bdeed",
+        "bytes": 68584
+      }
+    },
+    {
+      "id": "vcl-0194",
+      "number": 194,
+      "set_size": 1000,
+      "name": "Quartari",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "light",
+      "element_label": "Licht",
+      "hp": 110,
+      "collector_points": 970,
+      "description": "Een lichtwezen met kenmerken van een vos en raaf, weelderige staart en grote expressieve oren en een kraag van glanzende veren en vurige ogen.",
+      "origin": "het Kristalrif",
+      "abilities": [
+        {
+          "name": "Zonnestraal",
+          "damage": 60,
+          "energy_cost": 2,
+          "effect": "Een gerichte lichtaanval; herstel versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Ochtendglorie",
+          "damage": 70,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit het Kristalrif."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0194",
+        "path": "vcollector-legends/art/vcl-0194-a8c17ecb8ed4.webp",
+        "sha256": "a8c17ecb8ed4f1c7ecae2a711cc590ea574460f58d935c295b9c2887c88d48f5",
+        "bytes": 71600
+      }
+    },
+    {
+      "id": "vcl-0195",
+      "number": 195,
+      "set_size": 1000,
+      "name": "Floranori",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "earth",
+      "element_label": "Aarde",
+      "hp": 150,
+      "collector_points": 1345,
+      "description": "Een aardewezen met kenmerken van een hagedis en panter, een kroon van rugstekels en een lange zwiepstaart en een slank krachtig lichaam en een zwepende staart.",
+      "origin": "de Hemelbruggen",
+      "abilities": [
+        {
+          "name": "Rotswacht",
+          "damage": 80,
+          "energy_cost": 2,
+          "effect": "Een gerichte aardeaanval; pantser versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Bergbreker",
+          "damage": 100,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Hemelbruggen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0195",
+        "path": "vcollector-legends/art/vcl-0195-aabf03345932.webp",
+        "sha256": "aabf033459322322b7ce2ef9c6eccbb03b959c6e90c76ad7785d53402d60e256",
+        "bytes": 68106
+      }
+    },
+    {
+      "id": "vcl-0196",
+      "number": 196,
+      "set_size": 1000,
+      "name": "Nyxamiko",
+      "rarity": "legendary",
+      "rarity_label": "Legendary",
+      "element": "water",
+      "element_label": "Water",
+      "hp": 300,
+      "collector_points": 8560,
+      "description": "Een waterwezen met kenmerken van een schildpad en wolf, facetten in een monumentaal pantser en gelaagde manen en brede beschermende poten.",
+      "origin": "de IJsschervenarchipel",
+      "abilities": [
+        {
+          "name": "Getijdenslag",
+          "damage": 120,
+          "energy_cost": 5,
+          "effect": "Een gerichte wateraanval; vertraging versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Diepzeewervel",
+          "damage": 210,
+          "energy_cost": 7,
+          "effect": "Een krachtige elementuitbarsting vanuit de IJsschervenarchipel."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0196",
+        "path": "vcollector-legends/art/vcl-0196-8cc2484d9efb.webp",
+        "sha256": "8cc2484d9efb75099a29a4fa339421cd10f00edfa3a21bab34220eda0f6d94a2",
+        "bytes": 67270
+      }
+    },
+    {
+      "id": "vcl-0197",
+      "number": 197,
+      "set_size": 1000,
+      "name": "Glacizuli",
+      "rarity": "rare",
+      "rarity_label": "Rare",
+      "element": "cosmic",
+      "element_label": "Kosmos",
+      "hp": 160,
+      "collector_points": 2605,
+      "description": "Een kosmoswezen met kenmerken van een panter en hert, een slank krachtig lichaam en een zwepende staart en vertakt lichtgevend gewei en sierlijke hoeven.",
+      "origin": "de Koperen Hoogvlakte",
+      "abilities": [
+        {
+          "name": "Sterrenpuls",
+          "damage": 80,
+          "energy_cost": 3,
+          "effect": "Een gerichte kosmosaanval; sterrenstof versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Kosmische storm",
+          "damage": 130,
+          "energy_cost": 5,
+          "effect": "Een krachtige elementuitbarsting vanuit de Koperen Hoogvlakte."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0197",
+        "path": "vcollector-legends/art/vcl-0197-21fb5f4ad487.webp",
+        "sha256": "21fb5f4ad487ac65aaa6b21cd1f7efc233b5235ebbe8cbd61d2353de7facb7c5",
+        "bytes": 68626
+      }
+    },
+    {
+      "id": "vcl-0198",
+      "number": 198,
+      "set_size": 1000,
+      "name": "Embratora",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "wind",
+      "element_label": "Wind",
+      "hp": 80,
+      "collector_points": 385,
+      "description": "Een windwezen met kenmerken van een beer en slang, een imposant silhouet en dikke glanzende vacht en een kronkelend lang lichaam en sierlijke schubben.",
+      "origin": "de Nachtelijke Tuinen",
+      "abilities": [
+        {
+          "name": "Windstoot",
+          "damage": 40,
+          "energy_cost": 1,
+          "effect": "Een gerichte windaanval; ontwijking versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Hemelwervel",
+          "damage": 70,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Nachtelijke Tuinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0198",
+        "path": "vcollector-legends/art/vcl-0198-134e8e9d18d8.webp",
+        "sha256": "134e8e9d18d8d5b5b406622692d1aa19dc987c432988e972af9342bc5364bf51",
+        "bytes": 70670
+      }
+    },
+    {
+      "id": "vcl-0199",
+      "number": 199,
+      "set_size": 1000,
+      "name": "Frostlith",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "ice",
+      "element_label": "IJs",
+      "hp": 130,
+      "collector_points": 70,
+      "description": "Een ijswezen met kenmerken van een hert en haas, vertakt lichtgevend gewei en sierlijke hoeven en lange oren en springkrachtige achterpoten.",
+      "origin": "de Zonneduinen",
+      "abilities": [
+        {
+          "name": "Rijmslag",
+          "damage": 50,
+          "energy_cost": 1,
+          "effect": "Een gerichte ijsaanval; bevriezing versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Poolnachtstorm",
+          "damage": 80,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Zonneduinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0199",
+        "path": "vcollector-legends/art/vcl-0199-694c8d2b6b57.webp",
+        "sha256": "694c8d2b6b570824f6a516db0c97b920c4c2e95235a1d678d0566f3753801990",
+        "bytes": 71498
+      }
+    },
+    {
+      "id": "vcl-0200",
+      "number": 200,
+      "set_size": 1000,
+      "name": "Galavyn",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "fire",
+      "element_label": "Vuur",
+      "hp": 120,
+      "collector_points": 1345,
+      "description": "Een vuurwezen met kenmerken van een paard en vlinder, stromende manen en fonkelende hoefslagen en brede doorschijnende vleugels met oogpatronen.",
+      "origin": "het Sterrenwoud",
+      "abilities": [
+        {
+          "name": "Vonkenspoor",
+          "damage": 60,
+          "energy_cost": 2,
+          "effect": "Een gerichte vuuraanval; brand versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Infernogolf",
+          "damage": 100,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit het Sterrenwoud."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0200",
+        "path": "vcollector-legends/art/vcl-0200-c92b57f02c1f.webp",
+        "sha256": "c92b57f02c1ff1d79a27a27b15015b12ce5ade691333696d0ed2301c02b30044",
+        "bytes": 71606
+      }
+    },
+    {
+      "id": "vcl-0201",
+      "number": 201,
+      "set_size": 1000,
+      "name": "Galasora",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "light",
+      "element_label": "Licht",
+      "hp": 150,
+      "collector_points": 895,
+      "description": "Een lichtwezen met kenmerken van een haas en ram, lange oren en springkrachtige achterpoten en spiraalhoorns met gegraveerde patronen.",
+      "origin": "de Maanvallei",
+      "abilities": [
+        {
+          "name": "Zonnestraal",
+          "damage": 80,
+          "energy_cost": 2,
+          "effect": "Een gerichte lichtaanval; herstel versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Ochtendglorie",
+          "damage": 100,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Maanvallei."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0201",
+        "path": "vcollector-legends/art/vcl-0201-25c3c7ace140.webp",
+        "sha256": "25c3c7ace1403a8e20057055247b19bff300d320129e77b1bf7835a73fc4acea",
+        "bytes": 69174
+      }
+    },
+    {
+      "id": "vcl-0202",
+      "number": 202,
+      "set_size": 1000,
+      "name": "Astraryx",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "earth",
+      "element_label": "Aarde",
+      "hp": 100,
+      "collector_points": 865,
+      "description": "Een aardewezen met kenmerken van een lynx en vos, lange oorpluimen en een gespierde katachtige houding en weelderige staart en grote expressieve oren.",
+      "origin": "het Fluistermoeras",
+      "abilities": [
+        {
+          "name": "Rotswacht",
+          "damage": 60,
+          "energy_cost": 2,
+          "effect": "Een gerichte aardeaanval; pantser versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Bergbreker",
+          "damage": 70,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit het Fluistermoeras."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0202",
+        "path": "vcollector-legends/art/vcl-0202-9fecbe028b9e.webp",
+        "sha256": "9fecbe028b9e8c769a791f81b7225e918cf01e9fece5f81fd8662c7a8765dbd5",
+        "bytes": 68678
+      }
+    },
+    {
+      "id": "vcl-0203",
+      "number": 203,
+      "set_size": 1000,
+      "name": "Miravex",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "water",
+      "element_label": "Water",
+      "hp": 170,
+      "collector_points": 745,
+      "description": "Een waterwezen met kenmerken van een ram en uil, spiraalhoorns met gegraveerde patronen en zwevende veerkrans en glanzende slagpennen.",
+      "origin": "de Vergeten Bibliotheek",
+      "abilities": [
+        {
+          "name": "Getijdenslag",
+          "damage": 70,
+          "energy_cost": 2,
+          "effect": "Een gerichte wateraanval; vertraging versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Diepzeewervel",
+          "damage": 130,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Vergeten Bibliotheek."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0203",
+        "path": "vcollector-legends/art/vcl-0203-790239a63161.webp",
+        "sha256": "790239a63161071196e8478b30554d678dabf894169e23db7c6b8a2b5c7b7801",
+        "bytes": 67852
+      }
+    },
+    {
+      "id": "vcl-0204",
+      "number": 204,
+      "set_size": 1000,
+      "name": "Umbratari",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "cosmic",
+      "element_label": "Kosmos",
+      "hp": 130,
+      "collector_points": 355,
+      "description": "Een kosmoswezen met kenmerken van een panda en schildpad, ronde oren en fluwelige contrasterende vacht en facetten in een monumentaal pantser.",
+      "origin": "het Kristalrif",
+      "abilities": [
+        {
+          "name": "Sterrenpuls",
+          "damage": 70,
+          "energy_cost": 1,
+          "effect": "Een gerichte kosmosaanval; sterrenstof versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Kosmische storm",
+          "damage": 110,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Kristalrif."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0204",
+        "path": "vcollector-legends/art/vcl-0204-149afd788e9a.webp",
+        "sha256": "149afd788e9ab9a13deeca4d2c37fe523edd6591445706dc10ebacf83aff26db",
+        "bytes": 71474
+      }
+    },
+    {
+      "id": "vcl-0205",
+      "number": 205,
+      "set_size": 1000,
+      "name": "Obsiryx",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "wind",
+      "element_label": "Wind",
+      "hp": 100,
+      "collector_points": 430,
+      "description": "Een windwezen met kenmerken van een lynx en valk, lange oorpluimen en een gespierde katachtige houding en gestroomlijnde kop en lange gelaagde vleugels.",
+      "origin": "de Hemelbruggen",
+      "abilities": [
+        {
+          "name": "Windstoot",
+          "damage": 60,
+          "energy_cost": 1,
+          "effect": "Een gerichte windaanval; ontwijking versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Hemelwervel",
+          "damage": 80,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Hemelbruggen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0205",
+        "path": "vcollector-legends/art/vcl-0205-4e5fbdc6ddf3.webp",
+        "sha256": "4e5fbdc6ddf3d48714a6777057babfe50bfa772a24d4dcd21fee02dcfbbe1b0a",
+        "bytes": 70294
+      }
+    },
+    {
+      "id": "vcl-0206",
+      "number": 206,
+      "set_size": 1000,
+      "name": "Myconix",
+      "rarity": "rare",
+      "rarity_label": "Rare",
+      "element": "forest",
+      "element_label": "Natuur",
+      "hp": 170,
+      "collector_points": 2305,
+      "description": "Een natuurwezen met kenmerken van een ram en beer, spiraalhoorns met gegraveerde patronen en een imposant silhouet en dikke glanzende vacht.",
+      "origin": "de IJsschervenarchipel",
+      "abilities": [
+        {
+          "name": "Doornschild",
+          "damage": 80,
+          "energy_cost": 3,
+          "effect": "Een gerichte natuuraanval; wortelgreep versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Woudexplosie",
+          "damage": 120,
+          "energy_cost": 5,
+          "effect": "Een krachtige elementuitbarsting vanuit de IJsschervenarchipel."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0206",
+        "path": "vcollector-legends/art/vcl-0206-99a5c6e3129a.webp",
+        "sha256": "99a5c6e3129a4953762386d9e783991f8c47cc7bd5f39429f8c3e2338c6f74d2",
+        "bytes": 67564
+      }
+    },
+    {
+      "id": "vcl-0207",
+      "number": 207,
+      "set_size": 1000,
+      "name": "Runarion",
+      "rarity": "ultra-rare",
+      "rarity_label": "Ultra-Rare",
+      "element": "lightning",
+      "element_label": "Bliksem",
+      "hp": 230,
+      "collector_points": 5860,
+      "description": "Een bliksemwezen met kenmerken van een panda en walvis, ronde oren en fluwelige contrasterende vacht en een massief zwevend silhouet en sterren op de flanken.",
+      "origin": "de Koperen Hoogvlakte",
+      "abilities": [
+        {
+          "name": "Bliksemsprong",
+          "damage": 100,
+          "energy_cost": 4,
+          "effect": "Een gerichte bliksemaanval; siddering versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Stroomstorm",
+          "damage": 150,
+          "energy_cost": 6,
+          "effect": "Een krachtige elementuitbarsting vanuit de Koperen Hoogvlakte."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0207",
+        "path": "vcollector-legends/art/vcl-0207-44244efe791a.webp",
+        "sha256": "44244efe791a1e7fa2a00f2c11547d38882b4c353b412031473a634d7dc66ec2",
+        "bytes": 71598
+      }
+    },
+    {
+      "id": "vcl-0208",
+      "number": 208,
+      "set_size": 1000,
+      "name": "Zephyvex",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "shadow",
+      "element_label": "Schaduw",
+      "hp": 110,
+      "collector_points": 1480,
+      "description": "Een schaduwwezen met kenmerken van een uil en paard, zwevende veerkrans en glanzende slagpennen en stromende manen en fonkelende hoefslagen.",
+      "origin": "de Nachtelijke Tuinen",
+      "abilities": [
+        {
+          "name": "Schimstap",
+          "damage": 60,
+          "energy_cost": 2,
+          "effect": "Een gerichte schaduwaanval; verblinding versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Nachteclips",
+          "damage": 70,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Nachtelijke Tuinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0208",
+        "path": "vcollector-legends/art/vcl-0208-5a18d41144b5.webp",
+        "sha256": "5a18d41144b52924398ddb8313710410e675cdb7c0e4d661bf80c655a9acf79b",
+        "bytes": 69056
+      }
+    },
+    {
+      "id": "vcl-0209",
+      "number": 209,
+      "set_size": 1000,
+      "name": "Quarmora",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "ice",
+      "element_label": "IJs",
+      "hp": 100,
+      "collector_points": 430,
+      "description": "Een ijswezen met kenmerken van een raaf en draak, een kraag van glanzende veren en vurige ogen en kristallen hoorns en elegante vleugels.",
+      "origin": "de Zonneduinen",
+      "abilities": [
+        {
+          "name": "Rijmslag",
+          "damage": 50,
+          "energy_cost": 1,
+          "effect": "Een gerichte ijsaanval; bevriezing versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Poolnachtstorm",
+          "damage": 90,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Zonneduinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0209",
+        "path": "vcollector-legends/art/vcl-0209-d9ff3f3a5e7f.webp",
+        "sha256": "d9ff3f3a5e7f973aefaacc0cea943e086e68aa0ef6bf9500485fc18fae6ef477",
+        "bytes": 70712
+      }
+    },
+    {
+      "id": "vcl-0210",
+      "number": 210,
+      "set_size": 1000,
+      "name": "Cryorion",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "water",
+      "element_label": "Water",
+      "hp": 100,
+      "collector_points": 115,
+      "description": "Een waterwezen met kenmerken van een valk en hert, gestroomlijnde kop en lange gelaagde vleugels en vertakt lichtgevend gewei en sierlijke hoeven.",
+      "origin": "het Sterrenwoud",
+      "abilities": [
+        {
+          "name": "Getijdenslag",
+          "damage": 40,
+          "energy_cost": 1,
+          "effect": "Een gerichte wateraanval; vertraging versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Diepzeewervel",
+          "damage": 80,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Sterrenwoud."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0210",
+        "path": "vcollector-legends/art/vcl-0210-97c0eb4ff545.webp",
+        "sha256": "97c0eb4ff54548524c7c26b1cd4f74a2bed71418992251e8ea806cbe7ac09dd1",
+        "bytes": 69146
+      }
+    },
+    {
+      "id": "vcl-0211",
+      "number": 211,
+      "set_size": 1000,
+      "name": "Ignamora",
+      "rarity": "rare",
+      "rarity_label": "Rare",
+      "element": "cosmic",
+      "element_label": "Kosmos",
+      "hp": 150,
+      "collector_points": 2725,
+      "description": "Een kosmoswezen met kenmerken van een wolf en slang, gelaagde manen en brede beschermende poten en een kronkelend lang lichaam en sierlijke schubben.",
+      "origin": "de Maanvallei",
+      "abilities": [
+        {
+          "name": "Sterrenpuls",
+          "damage": 70,
+          "energy_cost": 3,
+          "effect": "Een gerichte kosmosaanval; sterrenstof versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Kosmische storm",
+          "damage": 130,
+          "energy_cost": 5,
+          "effect": "Een krachtige elementuitbarsting vanuit de Maanvallei."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0211",
+        "path": "vcollector-legends/art/vcl-0211-e9249a9beaa6.webp",
+        "sha256": "e9249a9beaa66772314a9847d97f63f14f19577346f31a84ff17cb1d01a069a3",
+        "bytes": 71556
+      }
+    },
+    {
+      "id": "vcl-0212",
+      "number": 212,
+      "set_size": 1000,
+      "name": "Duneryx",
+      "rarity": "ultra-rare",
+      "rarity_label": "Ultra-Rare",
+      "element": "wind",
+      "element_label": "Wind",
+      "hp": 270,
+      "collector_points": 4210,
+      "description": "Een windwezen met kenmerken van een walvis en haas, een massief zwevend silhouet en sterren op de flanken en lange oren en springkrachtige achterpoten.",
+      "origin": "het Fluistermoeras",
+      "abilities": [
+        {
+          "name": "Windstoot",
+          "damage": 110,
+          "energy_cost": 4,
+          "effect": "Een gerichte windaanval; ontwijking versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Hemelwervel",
+          "damage": 180,
+          "energy_cost": 6,
+          "effect": "Een krachtige elementuitbarsting vanuit het Fluistermoeras."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "artwork": {
+        "model": "vcl-0212",
+        "path": "vcollector-legends/art/vcl-0212-96759780d933.webp",
+        "sha256": "96759780d9336aa05b852fb79189078dc4f5f2f4623c800b5023f02f5f23b315",
+        "bytes": 70110
+      }
+    }
+  ]
+}
