@@ -1,0 +1,1271 @@
+{
+  "format": "vcollector-legends-production-1",
+  "first": 373,
+  "last": 402,
+  "count": 30,
+  "style": "gold-royal-576-queen",
+  "method": "built-in image_gen",
+  "hp_bonus_to_base": 10,
+  "cards": [
+    {
+      "id": "vcl-0373",
+      "number": 373,
+      "set_size": 1000,
+      "name": "Voltaris — Queen Edition",
+      "rarity": "legendary",
+      "rarity_label": "Legendary",
+      "element": "lightning",
+      "element_label": "Bliksem",
+      "hp": 250,
+      "collector_points": 6265,
+      "description": "Een vos-draak met indigo vacht, gouden pantseraccenten, cyaan bliksemmarkeringen en een lange vlammende staart. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "de Maanvallei",
+      "abilities": [
+        {
+          "name": "Bliksemsprong",
+          "damage": 90,
+          "energy_cost": 5,
+          "effect": "Een gerichte bliksemaanval; siddering versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Kosmische storm",
+          "damage": 160,
+          "energy_cost": 7,
+          "effect": "Een krachtige elementuitbarsting vanuit de Maanvallei."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0001",
+      "base_name": "Voltaris",
+      "base_hp": 240,
+      "edition": "queen-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0373",
+        "path": "vcollector-legends/art/vcl-0373-069138255779.webp",
+        "sha256": "0691382557792cfc716bd308840b00d97a096d05255e3c4776c259ce0d4b2028",
+        "bytes": 97506
+      }
+    },
+    {
+      "id": "vcl-0374",
+      "number": 374,
+      "set_size": 1000,
+      "name": "Lumiko — Queen Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "light",
+      "element_label": "Licht",
+      "hp": 70,
+      "collector_points": 445,
+      "description": "Een kleine maanvos met ivoorwitte vacht, zacht gouden oorpunten en zwevende lichtparels. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "het Fluistermoeras",
+      "abilities": [
+        {
+          "name": "Zonnestraal",
+          "damage": 20,
+          "energy_cost": 1,
+          "effect": "Een gerichte lichtaanval; herstel versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Ochtendglorie",
+          "damage": 70,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Fluistermoeras."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0002",
+      "base_name": "Lumiko",
+      "base_hp": 60,
+      "edition": "queen-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0374",
+        "path": "vcollector-legends/art/vcl-0374-006ec700fd27.webp",
+        "sha256": "006ec700fd2727f26e2f10172688d2d451740a25f251c18e7069a0c43404e8be",
+        "bytes": 97038
+      }
+    },
+    {
+      "id": "vcl-0375",
+      "number": 375,
+      "set_size": 1000,
+      "name": "Floraven — Queen Edition",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "forest",
+      "element_label": "Natuur",
+      "hp": 160,
+      "collector_points": 640,
+      "description": "Een sierlijke hert-vlinder met een kroon van bladeren, smaragdgroene ogen en doorschijnende vleugelvinnen. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "de Vergeten Bibliotheek",
+      "abilities": [
+        {
+          "name": "Doornschild",
+          "damage": 70,
+          "energy_cost": 2,
+          "effect": "Een gerichte natuuraanval; wortelgreep versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Woudexplosie",
+          "damage": 110,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Vergeten Bibliotheek."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0003",
+      "base_name": "Floraven",
+      "base_hp": 150,
+      "edition": "queen-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0375",
+        "path": "vcollector-legends/art/vcl-0375-4d6787119fff.webp",
+        "sha256": "4d6787119fff826faa660c0460d20019dbcaf9866c8882b48244d0723f92a578",
+        "bytes": 99046
+      }
+    },
+    {
+      "id": "vcl-0376",
+      "number": 376,
+      "set_size": 1000,
+      "name": "Ignoryx — Queen Edition",
+      "rarity": "rare",
+      "rarity_label": "Rare",
+      "element": "fire",
+      "element_label": "Vuur",
+      "hp": 160,
+      "collector_points": 2935,
+      "description": "Een robuuste katachtige draak met obsidiaan schubben, oranje gloedaders en een kroon van koperen hoorns. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "het Kristalrif",
+      "abilities": [
+        {
+          "name": "Vonkenspoor",
+          "damage": 60,
+          "energy_cost": 3,
+          "effect": "Een gerichte vuuraanval; brand versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Infernogolf",
+          "damage": 110,
+          "energy_cost": 5,
+          "effect": "Een krachtige elementuitbarsting vanuit het Kristalrif."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0004",
+      "base_name": "Ignoryx",
+      "base_hp": 150,
+      "edition": "queen-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0376",
+        "path": "vcollector-legends/art/vcl-0376-696e723b82ef.webp",
+        "sha256": "696e723b82ef58bb70bcca2910acef70d6815d3ac834b1753dd6305e6c729e5a",
+        "bytes": 97924
+      }
+    },
+    {
+      "id": "vcl-0377",
+      "number": 377,
+      "set_size": 1000,
+      "name": "Cryovara — Queen Edition",
+      "rarity": "ultra-rare",
+      "rarity_label": "Ultra-Rare",
+      "element": "ice",
+      "element_label": "IJs",
+      "hp": 210,
+      "collector_points": 3475,
+      "description": "Een elegante lynx met een kristallen poolvacht, zwevende ijsscherven en een opalen staart. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "de Hemelbruggen",
+      "abilities": [
+        {
+          "name": "Rijmslag",
+          "damage": 90,
+          "energy_cost": 4,
+          "effect": "Een gerichte ijsaanval; bevriezing versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Poolnachtstorm",
+          "damage": 130,
+          "energy_cost": 6,
+          "effect": "Een krachtige elementuitbarsting vanuit de Hemelbruggen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0005",
+      "base_name": "Cryovara",
+      "base_hp": 200,
+      "edition": "queen-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0377",
+        "path": "vcollector-legends/art/vcl-0377-32ecd0198ac0.webp",
+        "sha256": "32ecd0198ac02e4f074b28d7a9d000f530a8a900fff94b720cf21ba07daaf914",
+        "bytes": 97676
+      }
+    },
+    {
+      "id": "vcl-0378",
+      "number": 378,
+      "set_size": 1000,
+      "name": "Runadori — Queen Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "earth",
+      "element_label": "Aarde",
+      "hp": 140,
+      "collector_points": 430,
+      "description": "Een aardewezen met kenmerken van een hert en wolf, vertakt lichtgevend gewei en sierlijke hoeven en gelaagde manen en brede beschermende poten. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "de IJsschervenarchipel",
+      "abilities": [
+        {
+          "name": "Rotswacht",
+          "damage": 60,
+          "energy_cost": 1,
+          "effect": "Een gerichte aardeaanval; pantser versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Bergbreker",
+          "damage": 90,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de IJsschervenarchipel."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0006",
+      "base_name": "Runadori",
+      "base_hp": 130,
+      "edition": "queen-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0378",
+        "path": "vcollector-legends/art/vcl-0378-a2d86d3abcf8.webp",
+        "sha256": "a2d86d3abcf83c016826ce7bdd2869351e555c7b7d85cbdf9473c5ed5ec6182a",
+        "bytes": 97936
+      }
+    },
+    {
+      "id": "vcl-0379",
+      "number": 379,
+      "set_size": 1000,
+      "name": "Umbranix — Queen Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "water",
+      "element_label": "Water",
+      "hp": 100,
+      "collector_points": 100,
+      "description": "Een waterwezen met kenmerken van een paard en hert, stromende manen en fonkelende hoefslagen en vertakt lichtgevend gewei en sierlijke hoeven. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "de Koperen Hoogvlakte",
+      "abilities": [
+        {
+          "name": "Getijdenslag",
+          "damage": 50,
+          "energy_cost": 1,
+          "effect": "Een gerichte wateraanval; vertraging versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Diepzeewervel",
+          "damage": 70,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Koperen Hoogvlakte."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0007",
+      "base_name": "Umbranix",
+      "base_hp": 90,
+      "edition": "queen-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0379",
+        "path": "vcollector-legends/art/vcl-0379-a1e52372080d.webp",
+        "sha256": "a1e52372080d13a21f378a540a8cbfb4a437abf89b4708d001534a9204733736",
+        "bytes": 98836
+      }
+    },
+    {
+      "id": "vcl-0380",
+      "number": 380,
+      "set_size": 1000,
+      "name": "Lunatari — Queen Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "cosmic",
+      "element_label": "Kosmos",
+      "hp": 140,
+      "collector_points": 385,
+      "description": "Een kosmoswezen met kenmerken van een haas en slang, lange oren en springkrachtige achterpoten en een kronkelend lang lichaam en sierlijke schubben. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "de Nachtelijke Tuinen",
+      "abilities": [
+        {
+          "name": "Sterrenpuls",
+          "damage": 60,
+          "energy_cost": 1,
+          "effect": "Een gerichte kosmosaanval; sterrenstof versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Kosmische storm",
+          "damage": 110,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Nachtelijke Tuinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0008",
+      "base_name": "Lunatari",
+      "base_hp": 130,
+      "edition": "queen-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0380",
+        "path": "vcollector-legends/art/vcl-0380-889af80f4f0d.webp",
+        "sha256": "889af80f4f0d77147624d0fb6cc32bd5413200fbd0965509e9db764cd3c0bc2a",
+        "bytes": 96734
+      }
+    },
+    {
+      "id": "vcl-0381",
+      "number": 381,
+      "set_size": 1000,
+      "name": "Sylvazuli — Queen Edition",
+      "rarity": "ultra-rare",
+      "rarity_label": "Ultra-Rare",
+      "element": "wind",
+      "element_label": "Wind",
+      "hp": 200,
+      "collector_points": 3505,
+      "description": "Een windwezen met kenmerken van een lynx en haas, lange oorpluimen en een gespierde katachtige houding en lange oren en springkrachtige achterpoten. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "de Zonneduinen",
+      "abilities": [
+        {
+          "name": "Windstoot",
+          "damage": 70,
+          "energy_cost": 4,
+          "effect": "Een gerichte windaanval; ontwijking versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Hemelwervel",
+          "damage": 150,
+          "energy_cost": 6,
+          "effect": "Een krachtige elementuitbarsting vanuit de Zonneduinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0009",
+      "base_name": "Sylvazuli",
+      "base_hp": 190,
+      "edition": "queen-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0381",
+        "path": "vcollector-legends/art/vcl-0381-9575b654a711.webp",
+        "sha256": "9575b654a7112b9e2bfb0215789410403f353506f59f4e315f07d58f9ced45a2",
+        "bytes": 96594
+      }
+    },
+    {
+      "id": "vcl-0382",
+      "number": 382,
+      "set_size": 1000,
+      "name": "Onyxvex — Queen Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "forest",
+      "element_label": "Natuur",
+      "hp": 100,
+      "collector_points": 445,
+      "description": "Een natuurwezen met kenmerken van een ram en vlinder, spiraalhoorns met gegraveerde patronen en brede doorschijnende vleugels met oogpatronen. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "het Sterrenwoud",
+      "abilities": [
+        {
+          "name": "Doornschild",
+          "damage": 50,
+          "energy_cost": 1,
+          "effect": "Een gerichte natuuraanval; wortelgreep versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Woudexplosie",
+          "damage": 70,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Sterrenwoud."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0010",
+      "base_name": "Onyxvex",
+      "base_hp": 90,
+      "edition": "queen-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0382",
+        "path": "vcollector-legends/art/vcl-0382-760246f973b8.webp",
+        "sha256": "760246f973b83695dd74267536663ad1603a9508fa6651e104352e965b6ab48b",
+        "bytes": 98850
+      }
+    },
+    {
+      "id": "vcl-0383",
+      "number": 383,
+      "set_size": 1000,
+      "name": "Eiramiko — Queen Edition",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "lightning",
+      "element_label": "Bliksem",
+      "hp": 170,
+      "collector_points": 1255,
+      "description": "Een bliksemwezen met kenmerken van een panda en ram, ronde oren en fluwelige contrasterende vacht en spiraalhoorns met gegraveerde patronen. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "de Maanvallei",
+      "abilities": [
+        {
+          "name": "Bliksemsprong",
+          "damage": 80,
+          "energy_cost": 2,
+          "effect": "Een gerichte bliksemaanval; siddering versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Stroomstorm",
+          "damage": 100,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Maanvallei."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0011",
+      "base_name": "Eiramiko",
+      "base_hp": 160,
+      "edition": "queen-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0383",
+        "path": "vcollector-legends/art/vcl-0383-9a92e21d0274.webp",
+        "sha256": "9a92e21d027424dc5bc9482c38ae46ffd79b525223ebaedbb19b5f6266f90bd0",
+        "bytes": 97062
+      }
+    },
+    {
+      "id": "vcl-0384",
+      "number": 384,
+      "set_size": 1000,
+      "name": "Quarnix — Queen Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "light",
+      "element_label": "Licht",
+      "hp": 70,
+      "collector_points": 160,
+      "description": "Een lichtwezen met kenmerken van een uil en vos, zwevende veerkrans en glanzende slagpennen en weelderige staart en grote expressieve oren. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "het Fluistermoeras",
+      "abilities": [
+        {
+          "name": "Zonnestraal",
+          "damage": 30,
+          "energy_cost": 1,
+          "effect": "Een gerichte lichtaanval; herstel versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Ochtendglorie",
+          "damage": 70,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Fluistermoeras."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0012",
+      "base_name": "Quarnix",
+      "base_hp": 60,
+      "edition": "queen-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0384",
+        "path": "vcollector-legends/art/vcl-0384-0a70e2e2f99e.webp",
+        "sha256": "0a70e2e2f99eea81d67b4d86939b8db85d7c3b5db7bce5f2840d72424d248028",
+        "bytes": 97422
+      }
+    },
+    {
+      "id": "vcl-0385",
+      "number": 385,
+      "set_size": 1000,
+      "name": "Onyxdrax — Queen Edition",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "earth",
+      "element_label": "Aarde",
+      "hp": 150,
+      "collector_points": 670,
+      "description": "Een aardewezen met kenmerken van een raaf en uil, een kraag van glanzende veren en vurige ogen en zwevende veerkrans en glanzende slagpennen. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "de Vergeten Bibliotheek",
+      "abilities": [
+        {
+          "name": "Rotswacht",
+          "damage": 50,
+          "energy_cost": 2,
+          "effect": "Een gerichte aardeaanval; pantser versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Bergbreker",
+          "damage": 90,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Vergeten Bibliotheek."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0013",
+      "base_name": "Onyxdrax",
+      "base_hp": 140,
+      "edition": "queen-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0385",
+        "path": "vcollector-legends/art/vcl-0385-6d9861b56ee5.webp",
+        "sha256": "6d9861b56ee553676ddd284f375130d9f442d41108d39b902ecf882a660dd2bd",
+        "bytes": 97518
+      }
+    },
+    {
+      "id": "vcl-0386",
+      "number": 386,
+      "set_size": 1000,
+      "name": "Onyxnori — Queen Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "water",
+      "element_label": "Water",
+      "hp": 80,
+      "collector_points": 325,
+      "description": "Een waterwezen met kenmerken van een valk en schildpad, gestroomlijnde kop en lange gelaagde vleugels en facetten in een monumentaal pantser. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "het Kristalrif",
+      "abilities": [
+        {
+          "name": "Getijdenslag",
+          "damage": 20,
+          "energy_cost": 1,
+          "effect": "Een gerichte wateraanval; vertraging versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Diepzeewervel",
+          "damage": 40,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Kristalrif."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0014",
+      "base_name": "Onyxnori",
+      "base_hp": 70,
+      "edition": "queen-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0386",
+        "path": "vcollector-legends/art/vcl-0386-0c716c77ea08.webp",
+        "sha256": "0c716c77ea08bc1bf51e223400935adcc790402f66c2677c3e0e1ec1a2c13f56",
+        "bytes": 97982
+      }
+    },
+    {
+      "id": "vcl-0387",
+      "number": 387,
+      "set_size": 1000,
+      "name": "Orbilune — Queen Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "cosmic",
+      "element_label": "Kosmos",
+      "hp": 130,
+      "collector_points": 205,
+      "description": "Een kosmoswezen met kenmerken van een wolf en valk, gelaagde manen en brede beschermende poten en gestroomlijnde kop en lange gelaagde vleugels. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "de Hemelbruggen",
+      "abilities": [
+        {
+          "name": "Sterrenpuls",
+          "damage": 50,
+          "energy_cost": 1,
+          "effect": "Een gerichte kosmosaanval; sterrenstof versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Kosmische storm",
+          "damage": 90,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Hemelbruggen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0015",
+      "base_name": "Orbilune",
+      "base_hp": 120,
+      "edition": "queen-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0387",
+        "path": "vcollector-legends/art/vcl-0387-570b9c405515.webp",
+        "sha256": "570b9c4055150b27b18127330173d9439569d09422cd212a374dc18a8d7ad44a",
+        "bytes": 97346
+      }
+    },
+    {
+      "id": "vcl-0388",
+      "number": 388,
+      "set_size": 1000,
+      "name": "Caelitora — Queen Edition",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "wind",
+      "element_label": "Wind",
+      "hp": 130,
+      "collector_points": 1300,
+      "description": "Een windwezen met kenmerken van een walvis en beer, een massief zwevend silhouet en sterren op de flanken en een imposant silhouet en dikke glanzende vacht. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "de IJsschervenarchipel",
+      "abilities": [
+        {
+          "name": "Windstoot",
+          "damage": 50,
+          "energy_cost": 2,
+          "effect": "Een gerichte windaanval; ontwijking versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Hemelwervel",
+          "damage": 110,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de IJsschervenarchipel."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0016",
+      "base_name": "Caelitora",
+      "base_hp": 120,
+      "edition": "queen-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0388",
+        "path": "vcollector-legends/art/vcl-0388-206235e35df7.webp",
+        "sha256": "206235e35df725bb514f108befc8b0b0cf554d36bc854d575ce53ca9b270b921",
+        "bytes": 98020
+      }
+    },
+    {
+      "id": "vcl-0389",
+      "number": 389,
+      "set_size": 1000,
+      "name": "Aerothys — Queen Edition",
+      "rarity": "rare",
+      "rarity_label": "Rare",
+      "element": "forest",
+      "element_label": "Natuur",
+      "hp": 160,
+      "collector_points": 2530,
+      "description": "Een natuurwezen met kenmerken van een slang en walvis, een kronkelend lang lichaam en sierlijke schubben en een massief zwevend silhouet en sterren op de flanken. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "de Koperen Hoogvlakte",
+      "abilities": [
+        {
+          "name": "Doornschild",
+          "damage": 70,
+          "energy_cost": 3,
+          "effect": "Een gerichte natuuraanval; wortelgreep versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Woudexplosie",
+          "damage": 130,
+          "energy_cost": 5,
+          "effect": "Een krachtige elementuitbarsting vanuit de Koperen Hoogvlakte."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0017",
+      "base_name": "Aerothys",
+      "base_hp": 150,
+      "edition": "queen-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0389",
+        "path": "vcollector-legends/art/vcl-0389-296606f6106c.webp",
+        "sha256": "296606f6106c35bb42f4704239aed8393f562e320c8e22e035d244defdb10658",
+        "bytes": 97784
+      }
+    },
+    {
+      "id": "vcl-0390",
+      "number": 390,
+      "set_size": 1000,
+      "name": "Floravori — Queen Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "lightning",
+      "element_label": "Bliksem",
+      "hp": 80,
+      "collector_points": 310,
+      "description": "Een bliksemwezen met kenmerken van een wolf en paard, gelaagde manen en brede beschermende poten en stromende manen en fonkelende hoefslagen. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "de Nachtelijke Tuinen",
+      "abilities": [
+        {
+          "name": "Bliksemsprong",
+          "damage": 40,
+          "energy_cost": 1,
+          "effect": "Een gerichte bliksemaanval; siddering versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Stroomstorm",
+          "damage": 50,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Nachtelijke Tuinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0018",
+      "base_name": "Floravori",
+      "base_hp": 70,
+      "edition": "queen-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0390",
+        "path": "vcollector-legends/art/vcl-0390-1e721715108c.webp",
+        "sha256": "1e721715108cbf6c4a4bc662f6204c3c9552c1815649e64789a0fa2cec3060e7",
+        "bytes": 95620
+      }
+    },
+    {
+      "id": "vcl-0391",
+      "number": 391,
+      "set_size": 1000,
+      "name": "Nebuzuli — Queen Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "shadow",
+      "element_label": "Schaduw",
+      "hp": 70,
+      "collector_points": 475,
+      "description": "Een schaduwwezen met kenmerken van een walvis en draak, een massief zwevend silhouet en sterren op de flanken en kristallen hoorns en elegante vleugels. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "de Zonneduinen",
+      "abilities": [
+        {
+          "name": "Schimstap",
+          "damage": 30,
+          "energy_cost": 1,
+          "effect": "Een gerichte schaduwaanval; verblinding versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Nachteclips",
+          "damage": 60,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Zonneduinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0019",
+      "base_name": "Nebuzuli",
+      "base_hp": 60,
+      "edition": "queen-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0391",
+        "path": "vcollector-legends/art/vcl-0391-6168f91733be.webp",
+        "sha256": "6168f91733befc1b89e0770a1be46c7cfc4030e4069eba2c2b42893b708940d8",
+        "bytes": 92108
+      }
+    },
+    {
+      "id": "vcl-0392",
+      "number": 392,
+      "set_size": 1000,
+      "name": "Nyxatari — Queen Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "ice",
+      "element_label": "IJs",
+      "hp": 70,
+      "collector_points": 220,
+      "description": "Een ijswezen met kenmerken van een slang en hert, een kronkelend lang lichaam en sierlijke schubben en vertakt lichtgevend gewei en sierlijke hoeven. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "het Sterrenwoud",
+      "abilities": [
+        {
+          "name": "Rijmslag",
+          "damage": 20,
+          "energy_cost": 1,
+          "effect": "Een gerichte ijsaanval; bevriezing versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Poolnachtstorm",
+          "damage": 50,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Sterrenwoud."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0020",
+      "base_name": "Nyxatari",
+      "base_hp": 60,
+      "edition": "queen-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0392",
+        "path": "vcollector-legends/art/vcl-0392-3fa1fb78f2ea.webp",
+        "sha256": "3fa1fb78f2ea8fc63f0678cba2e743c45590e803a384d7bbfea90a1b3b0fd944",
+        "bytes": 96496
+      }
+    },
+    {
+      "id": "vcl-0393",
+      "number": 393,
+      "set_size": 1000,
+      "name": "Jadesora — Queen Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "fire",
+      "element_label": "Vuur",
+      "hp": 120,
+      "collector_points": 160,
+      "description": "Een vuurwezen met kenmerken van een draak en slang, kristallen hoorns en elegante vleugels en een kronkelend lang lichaam en sierlijke schubben. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "de Maanvallei",
+      "abilities": [
+        {
+          "name": "Vonkenspoor",
+          "damage": 60,
+          "energy_cost": 1,
+          "effect": "Een gerichte vuuraanval; brand versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Infernogolf",
+          "damage": 90,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Maanvallei."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0021",
+      "base_name": "Jadesora",
+      "base_hp": 110,
+      "edition": "queen-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0393",
+        "path": "vcollector-legends/art/vcl-0393-f6eed82ce437.webp",
+        "sha256": "f6eed82ce437d146e440562cf3ef5718a8b2f0d1d00672771082a29336b75597",
+        "bytes": 99432
+      }
+    },
+    {
+      "id": "vcl-0394",
+      "number": 394,
+      "set_size": 1000,
+      "name": "Heliodrax — Queen Edition",
+      "rarity": "ultra-rare",
+      "rarity_label": "Ultra-Rare",
+      "element": "forest",
+      "element_label": "Natuur",
+      "hp": 260,
+      "collector_points": 3115,
+      "description": "Een natuurwezen met kenmerken van een vos en ram, weelderige staart en grote expressieve oren en spiraalhoorns met gegraveerde patronen. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "het Kristalrif",
+      "abilities": [
+        {
+          "name": "Doornschild",
+          "damage": 100,
+          "energy_cost": 4,
+          "effect": "Een gerichte natuuraanval; wortelgreep versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Woudexplosie",
+          "damage": 170,
+          "energy_cost": 6,
+          "effect": "Een krachtige elementuitbarsting vanuit het Kristalrif."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0024",
+      "base_name": "Heliodrax",
+      "base_hp": 250,
+      "edition": "queen-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0394",
+        "path": "vcollector-legends/art/vcl-0394-70c0e8cc1597.webp",
+        "sha256": "70c0e8cc1597dc13a322316c2bbf0f9f45f5089eb4afb1720929e4e32bfda2a7",
+        "bytes": 98646
+      }
+    },
+    {
+      "id": "vcl-0395",
+      "number": 395,
+      "set_size": 1000,
+      "name": "Eiravyn — Queen Edition",
+      "rarity": "ultra-rare",
+      "rarity_label": "Ultra-Rare",
+      "element": "shadow",
+      "element_label": "Schaduw",
+      "hp": 290,
+      "collector_points": 3025,
+      "description": "Een schaduwwezen met kenmerken van een draak en schildpad, kristallen hoorns en elegante vleugels en facetten in een monumentaal pantser. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "de Vergeten Bibliotheek",
+      "abilities": [
+        {
+          "name": "Schemerknuffel",
+          "damage": 110,
+          "energy_cost": 4,
+          "effect": "Een gerichte schaduwaanval; verblinding versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Nachtbel",
+          "damage": 200,
+          "energy_cost": 6,
+          "effect": "Een krachtige elementuitbarsting vanuit de Vergeten Bibliotheek."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "art_style": "gold-royal-576",
+      "base_id": "vcl-0263",
+      "base_name": "Eiravyn",
+      "base_hp": 280,
+      "edition": "queen-edition",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0395",
+        "path": "vcollector-legends/art/vcl-0395-229debc54cad.webp",
+        "sha256": "229debc54cad667fcdb330efcd958047cbfc735128d33a12705f884be657283b",
+        "bytes": 99076
+      }
+    },
+    {
+      "id": "vcl-0396",
+      "number": 396,
+      "set_size": 1000,
+      "name": "Florathys — Queen Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "ice",
+      "element_label": "IJs",
+      "hp": 70,
+      "collector_points": 10,
+      "description": "Een ijswezen met kenmerken van een vlinder en valk, brede doorschijnende vleugels met oogpatronen en gestroomlijnde kop en lange gelaagde vleugels. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "het Kristalrif",
+      "abilities": [
+        {
+          "name": "Sneeuwfladder",
+          "damage": 40,
+          "energy_cost": 1,
+          "effect": "Een gerichte ijsaanval; bevriezing versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Rijmdans",
+          "damage": 50,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Kristalrif."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "art_style": "gold-royal-576",
+      "base_id": "vcl-0264",
+      "base_name": "Florathys",
+      "base_hp": 60,
+      "edition": "queen-edition",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0396",
+        "path": "vcollector-legends/art/vcl-0396-ec6fa1a30795.webp",
+        "sha256": "ec6fa1a307953d87b874e5b5f4a2c48f415b97d54663bf3e5bbcccb09effba9c",
+        "bytes": 99362
+      }
+    },
+    {
+      "id": "vcl-0397",
+      "number": 397,
+      "set_size": 1000,
+      "name": "Heliothys — Queen Edition",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "water",
+      "element_label": "Water",
+      "hp": 170,
+      "collector_points": 760,
+      "description": "Een waterwezen met kenmerken van een manta en beer, vloeiende lintvinnen en een lichtgevende rug en een imposant silhouet en dikke glanzende vacht. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "de Hemelbruggen",
+      "abilities": [
+        {
+          "name": "Bubbelbrul",
+          "damage": 60,
+          "energy_cost": 2,
+          "effect": "Een gerichte wateraanval; vertraging versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Golvenpret",
+          "damage": 120,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Hemelbruggen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "art_style": "gold-royal-576",
+      "base_id": "vcl-0265",
+      "base_name": "Heliothys",
+      "base_hp": 160,
+      "edition": "queen-edition",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0397",
+        "path": "vcollector-legends/art/vcl-0397-f9ada9bc4f06.webp",
+        "sha256": "f9ada9bc4f066d906c3c2fe2e18b846b4120522477c89432d9b886425404cb72",
+        "bytes": 99732
+      }
+    },
+    {
+      "id": "vcl-0398",
+      "number": 398,
+      "set_size": 1000,
+      "name": "Dunemora — Queen Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "cosmic",
+      "element_label": "Kosmos",
+      "hp": 80,
+      "collector_points": 130,
+      "description": "Een kosmoswezen met kenmerken van een vos en walvis, weelderige staart en grote expressieve oren en een massief zwevend silhouet en sterren op de flanken. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "de IJsschervenarchipel",
+      "abilities": [
+        {
+          "name": "Sterrenhuppel",
+          "damage": 40,
+          "energy_cost": 1,
+          "effect": "Een gerichte kosmosaanval; sterrenstof versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Komeetkrul",
+          "damage": 50,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de IJsschervenarchipel."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "art_style": "gold-royal-576",
+      "base_id": "vcl-0266",
+      "base_name": "Dunemora",
+      "base_hp": 70,
+      "edition": "queen-edition",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0398",
+        "path": "vcollector-legends/art/vcl-0398-0d71d9d7c179.webp",
+        "sha256": "0d71d9d7c179e19a580f56e332e89c3314fbcb8e583a6d5f3567d5b48a877efa",
+        "bytes": 97340
+      }
+    },
+    {
+      "id": "vcl-0399",
+      "number": 399,
+      "set_size": 1000,
+      "name": "Sylvakira — Queen Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "wind",
+      "element_label": "Wind",
+      "hp": 80,
+      "collector_points": 490,
+      "description": "Een windwezen met kenmerken van een hagedis en panter, een kroon van rugstekels en een lange zwiepstaart en een slank krachtig lichaam en een zwepende staart. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "de Koperen Hoogvlakte",
+      "abilities": [
+        {
+          "name": "Briespoot",
+          "damage": 20,
+          "energy_cost": 1,
+          "effect": "Een gerichte windaanval; ontwijking versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Wervelsnor",
+          "damage": 60,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Koperen Hoogvlakte."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "art_style": "gold-royal-576",
+      "base_id": "vcl-0267",
+      "base_name": "Sylvakira",
+      "base_hp": 70,
+      "edition": "queen-edition",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0399",
+        "path": "vcollector-legends/art/vcl-0399-52c80547f16a.webp",
+        "sha256": "52c80547f16a6eef2b98c3a3b15ed93179af31eea43341d73d20bbea62b07221",
+        "bytes": 98970
+      }
+    },
+    {
+      "id": "vcl-0400",
+      "number": 400,
+      "set_size": 1000,
+      "name": "Runavex — Queen Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "forest",
+      "element_label": "Natuur",
+      "hp": 130,
+      "collector_points": 40,
+      "description": "Een natuurwezen met kenmerken van een schildpad en wolf, facetten in een monumentaal pantser en gelaagde manen en brede beschermende poten. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "de Nachtelijke Tuinen",
+      "abilities": [
+        {
+          "name": "Moswacht",
+          "damage": 50,
+          "energy_cost": 1,
+          "effect": "Een gerichte natuuraanval; wortelgreep versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Bosgehuil",
+          "damage": 100,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Nachtelijke Tuinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "art_style": "gold-royal-576",
+      "base_id": "vcl-0268",
+      "base_name": "Runavex",
+      "base_hp": 120,
+      "edition": "queen-edition",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0400",
+        "path": "vcollector-legends/art/vcl-0400-a4542469e50a.webp",
+        "sha256": "a4542469e50aa89a00239d3912bb77e917fad32972fa5dcab02d816583f4d2bd",
+        "bytes": 99698
+      }
+    },
+    {
+      "id": "vcl-0401",
+      "number": 401,
+      "set_size": 1000,
+      "name": "Pyratari — Queen Edition",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "lightning",
+      "element_label": "Bliksem",
+      "hp": 140,
+      "collector_points": 1270,
+      "description": "Een bliksemwezen met kenmerken van een panter en hert, een slank krachtig lichaam en een zwepende staart en vertakt lichtgevend gewei en sierlijke hoeven. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "de Zonneduinen",
+      "abilities": [
+        {
+          "name": "Vonkengewei",
+          "damage": 50,
+          "energy_cost": 2,
+          "effect": "Een gerichte bliksemaanval; siddering versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Flitsjacht",
+          "damage": 110,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Zonneduinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "art_style": "gold-royal-576",
+      "base_id": "vcl-0269",
+      "base_name": "Pyratari",
+      "base_hp": 130,
+      "edition": "queen-edition",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0401",
+        "path": "vcollector-legends/art/vcl-0401-4023eb19b19f.webp",
+        "sha256": "4023eb19b19f4d5048cd196ee65524fdd1298fbecfceaa6b5edd5061dbd799ab",
+        "bytes": 94326
+      }
+    },
+    {
+      "id": "vcl-0402",
+      "number": 402,
+      "set_size": 1000,
+      "name": "Embranix — Queen Edition",
+      "rarity": "rare",
+      "rarity_label": "Rare",
+      "element": "shadow",
+      "element_label": "Schaduw",
+      "hp": 180,
+      "collector_points": 2110,
+      "description": "Een schaduwwezen met kenmerken van een beer en slang, een imposant silhouet en dikke glanzende vacht en een kronkelend lang lichaam en sierlijke schubben. Queen Edition: slankere vrouwelijke variant met tiara, bordeauxrode mantel en scepter.",
+      "origin": "het Sterrenwoud",
+      "abilities": [
+        {
+          "name": "Schaduwrol",
+          "damage": 60,
+          "energy_cost": 3,
+          "effect": "Een gerichte schaduwaanval; verblinding versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Nachtkronkel",
+          "damage": 130,
+          "energy_cost": 5,
+          "effect": "Een krachtige elementuitbarsting vanuit het Sterrenwoud."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "art_style": "gold-royal-576",
+      "base_id": "vcl-0270",
+      "base_name": "Embranix",
+      "base_hp": 170,
+      "edition": "queen-edition",
+      "royal_gender": "female",
+      "artwork": {
+        "model": "vcl-0402",
+        "path": "vcollector-legends/art/vcl-0402-f57453184484.webp",
+        "sha256": "f574531844848d9231c3949c25437494991f88b7346268303dd7805cb79000ba",
+        "bytes": 90938
+      }
+    }
+  ]
+}

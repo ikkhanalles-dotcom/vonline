@@ -1,0 +1,1271 @@
+{
+  "format": "vcollector-legends-production-1",
+  "first": 343,
+  "last": 372,
+  "count": 30,
+  "style": "gold-royal-576-king",
+  "method": "built-in image_gen",
+  "hp_bonus_to_base": 10,
+  "cards": [
+    {
+      "id": "vcl-0343",
+      "number": 343,
+      "set_size": 1000,
+      "name": "Voltaris — King Edition",
+      "rarity": "legendary",
+      "rarity_label": "Legendary",
+      "element": "lightning",
+      "element_label": "Bliksem",
+      "hp": 250,
+      "collector_points": 6265,
+      "description": "Een vos-draak met indigo vacht, gouden pantseraccenten, cyaan bliksemmarkeringen en een lange vlammende staart. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "de Maanvallei",
+      "abilities": [
+        {
+          "name": "Bliksemsprong",
+          "damage": 90,
+          "energy_cost": 5,
+          "effect": "Een gerichte bliksemaanval; siddering versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Kosmische storm",
+          "damage": 160,
+          "energy_cost": 7,
+          "effect": "Een krachtige elementuitbarsting vanuit de Maanvallei."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0001",
+      "base_name": "Voltaris",
+      "base_hp": 240,
+      "edition": "king-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0343",
+        "path": "vcollector-legends/art/vcl-0343-2a02c9d4c6bd.webp",
+        "sha256": "2a02c9d4c6bd5a260cd2a710729fb1aca7cc51da04e1b98e4badea50c026864d",
+        "bytes": 99566
+      }
+    },
+    {
+      "id": "vcl-0344",
+      "number": 344,
+      "set_size": 1000,
+      "name": "Lumiko — King Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "light",
+      "element_label": "Licht",
+      "hp": 70,
+      "collector_points": 445,
+      "description": "Een kleine maanvos met ivoorwitte vacht, zacht gouden oorpunten en zwevende lichtparels. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "het Fluistermoeras",
+      "abilities": [
+        {
+          "name": "Zonnestraal",
+          "damage": 20,
+          "energy_cost": 1,
+          "effect": "Een gerichte lichtaanval; herstel versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Ochtendglorie",
+          "damage": 70,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Fluistermoeras."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0002",
+      "base_name": "Lumiko",
+      "base_hp": 60,
+      "edition": "king-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0344",
+        "path": "vcollector-legends/art/vcl-0344-276b2a18b705.webp",
+        "sha256": "276b2a18b705875ee7d865d87f5836f19e39436392a50f097dd4d8dd9d36df5e",
+        "bytes": 97526
+      }
+    },
+    {
+      "id": "vcl-0345",
+      "number": 345,
+      "set_size": 1000,
+      "name": "Floraven — King Edition",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "forest",
+      "element_label": "Natuur",
+      "hp": 160,
+      "collector_points": 640,
+      "description": "Een sierlijke hert-vlinder met een kroon van bladeren, smaragdgroene ogen en doorschijnende vleugelvinnen. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "de Vergeten Bibliotheek",
+      "abilities": [
+        {
+          "name": "Doornschild",
+          "damage": 70,
+          "energy_cost": 2,
+          "effect": "Een gerichte natuuraanval; wortelgreep versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Woudexplosie",
+          "damage": 110,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Vergeten Bibliotheek."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0003",
+      "base_name": "Floraven",
+      "base_hp": 150,
+      "edition": "king-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0345",
+        "path": "vcollector-legends/art/vcl-0345-9a48765339f2.webp",
+        "sha256": "9a48765339f2813002e9ec402002e64f4d2e77af16740b855825416a665cd352",
+        "bytes": 97130
+      }
+    },
+    {
+      "id": "vcl-0346",
+      "number": 346,
+      "set_size": 1000,
+      "name": "Ignoryx — King Edition",
+      "rarity": "rare",
+      "rarity_label": "Rare",
+      "element": "fire",
+      "element_label": "Vuur",
+      "hp": 160,
+      "collector_points": 2935,
+      "description": "Een robuuste katachtige draak met obsidiaan schubben, oranje gloedaders en een kroon van koperen hoorns. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "het Kristalrif",
+      "abilities": [
+        {
+          "name": "Vonkenspoor",
+          "damage": 60,
+          "energy_cost": 3,
+          "effect": "Een gerichte vuuraanval; brand versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Infernogolf",
+          "damage": 110,
+          "energy_cost": 5,
+          "effect": "Een krachtige elementuitbarsting vanuit het Kristalrif."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0004",
+      "base_name": "Ignoryx",
+      "base_hp": 150,
+      "edition": "king-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0346",
+        "path": "vcollector-legends/art/vcl-0346-3ca0e01f7743.webp",
+        "sha256": "3ca0e01f77436dc2f0f5f61f8abb44c925c46a3c1ece49526217b07fdb76b686",
+        "bytes": 98554
+      }
+    },
+    {
+      "id": "vcl-0347",
+      "number": 347,
+      "set_size": 1000,
+      "name": "Cryovara — King Edition",
+      "rarity": "ultra-rare",
+      "rarity_label": "Ultra-Rare",
+      "element": "ice",
+      "element_label": "IJs",
+      "hp": 210,
+      "collector_points": 3475,
+      "description": "Een elegante lynx met een kristallen poolvacht, zwevende ijsscherven en een opalen staart. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "de Hemelbruggen",
+      "abilities": [
+        {
+          "name": "Rijmslag",
+          "damage": 90,
+          "energy_cost": 4,
+          "effect": "Een gerichte ijsaanval; bevriezing versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Poolnachtstorm",
+          "damage": 130,
+          "energy_cost": 6,
+          "effect": "Een krachtige elementuitbarsting vanuit de Hemelbruggen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0005",
+      "base_name": "Cryovara",
+      "base_hp": 200,
+      "edition": "king-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0347",
+        "path": "vcollector-legends/art/vcl-0347-9110612a7ae8.webp",
+        "sha256": "9110612a7ae81e839548b58b7199830f292b497187dc2e1e05224b3f68e5d81a",
+        "bytes": 97376
+      }
+    },
+    {
+      "id": "vcl-0348",
+      "number": 348,
+      "set_size": 1000,
+      "name": "Runadori — King Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "earth",
+      "element_label": "Aarde",
+      "hp": 140,
+      "collector_points": 430,
+      "description": "Een aardewezen met kenmerken van een hert en wolf, vertakt lichtgevend gewei en sierlijke hoeven en gelaagde manen en brede beschermende poten. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "de IJsschervenarchipel",
+      "abilities": [
+        {
+          "name": "Rotswacht",
+          "damage": 60,
+          "energy_cost": 1,
+          "effect": "Een gerichte aardeaanval; pantser versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Bergbreker",
+          "damage": 90,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de IJsschervenarchipel."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0006",
+      "base_name": "Runadori",
+      "base_hp": 130,
+      "edition": "king-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0348",
+        "path": "vcollector-legends/art/vcl-0348-bb93c995abf4.webp",
+        "sha256": "bb93c995abf401ebfaebeb6d9573aa2aa7ac405d00bd713b81e4091c01a53809",
+        "bytes": 99472
+      }
+    },
+    {
+      "id": "vcl-0349",
+      "number": 349,
+      "set_size": 1000,
+      "name": "Umbranix — King Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "water",
+      "element_label": "Water",
+      "hp": 100,
+      "collector_points": 100,
+      "description": "Een waterwezen met kenmerken van een paard en hert, stromende manen en fonkelende hoefslagen en vertakt lichtgevend gewei en sierlijke hoeven. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "de Koperen Hoogvlakte",
+      "abilities": [
+        {
+          "name": "Getijdenslag",
+          "damage": 50,
+          "energy_cost": 1,
+          "effect": "Een gerichte wateraanval; vertraging versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Diepzeewervel",
+          "damage": 70,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Koperen Hoogvlakte."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0007",
+      "base_name": "Umbranix",
+      "base_hp": 90,
+      "edition": "king-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0349",
+        "path": "vcollector-legends/art/vcl-0349-9f962c2e6c26.webp",
+        "sha256": "9f962c2e6c26f1dedc5445ab7401785b0de1df2bd12340964f7ed57e48534dda",
+        "bytes": 98392
+      }
+    },
+    {
+      "id": "vcl-0350",
+      "number": 350,
+      "set_size": 1000,
+      "name": "Lunatari — King Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "cosmic",
+      "element_label": "Kosmos",
+      "hp": 140,
+      "collector_points": 385,
+      "description": "Een kosmoswezen met kenmerken van een haas en slang, lange oren en springkrachtige achterpoten en een kronkelend lang lichaam en sierlijke schubben. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "de Nachtelijke Tuinen",
+      "abilities": [
+        {
+          "name": "Sterrenpuls",
+          "damage": 60,
+          "energy_cost": 1,
+          "effect": "Een gerichte kosmosaanval; sterrenstof versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Kosmische storm",
+          "damage": 110,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Nachtelijke Tuinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0008",
+      "base_name": "Lunatari",
+      "base_hp": 130,
+      "edition": "king-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0350",
+        "path": "vcollector-legends/art/vcl-0350-7ba5f33cff7a.webp",
+        "sha256": "7ba5f33cff7a24604147c5077351adba51b9769c7eb4327aa6eaac5455d68a6e",
+        "bytes": 98644
+      }
+    },
+    {
+      "id": "vcl-0351",
+      "number": 351,
+      "set_size": 1000,
+      "name": "Sylvazuli — King Edition",
+      "rarity": "ultra-rare",
+      "rarity_label": "Ultra-Rare",
+      "element": "wind",
+      "element_label": "Wind",
+      "hp": 200,
+      "collector_points": 3505,
+      "description": "Een windwezen met kenmerken van een lynx en haas, lange oorpluimen en een gespierde katachtige houding en lange oren en springkrachtige achterpoten. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "de Zonneduinen",
+      "abilities": [
+        {
+          "name": "Windstoot",
+          "damage": 70,
+          "energy_cost": 4,
+          "effect": "Een gerichte windaanval; ontwijking versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Hemelwervel",
+          "damage": 150,
+          "energy_cost": 6,
+          "effect": "Een krachtige elementuitbarsting vanuit de Zonneduinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0009",
+      "base_name": "Sylvazuli",
+      "base_hp": 190,
+      "edition": "king-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0351",
+        "path": "vcollector-legends/art/vcl-0351-2513bc0f71df.webp",
+        "sha256": "2513bc0f71dfd7a07d7107518894a9860964a318ecb03e2c1b7a504a51feb521",
+        "bytes": 95978
+      }
+    },
+    {
+      "id": "vcl-0352",
+      "number": 352,
+      "set_size": 1000,
+      "name": "Onyxvex — King Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "forest",
+      "element_label": "Natuur",
+      "hp": 100,
+      "collector_points": 445,
+      "description": "Een natuurwezen met kenmerken van een ram en vlinder, spiraalhoorns met gegraveerde patronen en brede doorschijnende vleugels met oogpatronen. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "het Sterrenwoud",
+      "abilities": [
+        {
+          "name": "Doornschild",
+          "damage": 50,
+          "energy_cost": 1,
+          "effect": "Een gerichte natuuraanval; wortelgreep versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Woudexplosie",
+          "damage": 70,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Sterrenwoud."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0010",
+      "base_name": "Onyxvex",
+      "base_hp": 90,
+      "edition": "king-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0352",
+        "path": "vcollector-legends/art/vcl-0352-39a23e9e197b.webp",
+        "sha256": "39a23e9e197b5a70e47800d9c812cb33c004e5c2439443ca4b328e4125d1d026",
+        "bytes": 99284
+      }
+    },
+    {
+      "id": "vcl-0353",
+      "number": 353,
+      "set_size": 1000,
+      "name": "Eiramiko — King Edition",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "lightning",
+      "element_label": "Bliksem",
+      "hp": 170,
+      "collector_points": 1255,
+      "description": "Een bliksemwezen met kenmerken van een panda en ram, ronde oren en fluwelige contrasterende vacht en spiraalhoorns met gegraveerde patronen. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "de Maanvallei",
+      "abilities": [
+        {
+          "name": "Bliksemsprong",
+          "damage": 80,
+          "energy_cost": 2,
+          "effect": "Een gerichte bliksemaanval; siddering versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Stroomstorm",
+          "damage": 100,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Maanvallei."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0011",
+      "base_name": "Eiramiko",
+      "base_hp": 160,
+      "edition": "king-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0353",
+        "path": "vcollector-legends/art/vcl-0353-78800e7d11e9.webp",
+        "sha256": "78800e7d11e9c46e3be8c6ecd56f9f6959feb5308228b57efd726c892524fa8e",
+        "bytes": 98732
+      }
+    },
+    {
+      "id": "vcl-0354",
+      "number": 354,
+      "set_size": 1000,
+      "name": "Quarnix — King Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "light",
+      "element_label": "Licht",
+      "hp": 70,
+      "collector_points": 160,
+      "description": "Een lichtwezen met kenmerken van een uil en vos, zwevende veerkrans en glanzende slagpennen en weelderige staart en grote expressieve oren. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "het Fluistermoeras",
+      "abilities": [
+        {
+          "name": "Zonnestraal",
+          "damage": 30,
+          "energy_cost": 1,
+          "effect": "Een gerichte lichtaanval; herstel versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Ochtendglorie",
+          "damage": 70,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Fluistermoeras."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0012",
+      "base_name": "Quarnix",
+      "base_hp": 60,
+      "edition": "king-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0354",
+        "path": "vcollector-legends/art/vcl-0354-f96f631cd2a5.webp",
+        "sha256": "f96f631cd2a54400e3d2739b4874ac60f019f6670301ef0c7736c3ee9fc5aa72",
+        "bytes": 97470
+      }
+    },
+    {
+      "id": "vcl-0355",
+      "number": 355,
+      "set_size": 1000,
+      "name": "Onyxdrax — King Edition",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "earth",
+      "element_label": "Aarde",
+      "hp": 150,
+      "collector_points": 670,
+      "description": "Een aardewezen met kenmerken van een raaf en uil, een kraag van glanzende veren en vurige ogen en zwevende veerkrans en glanzende slagpennen. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "de Vergeten Bibliotheek",
+      "abilities": [
+        {
+          "name": "Rotswacht",
+          "damage": 50,
+          "energy_cost": 2,
+          "effect": "Een gerichte aardeaanval; pantser versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Bergbreker",
+          "damage": 90,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Vergeten Bibliotheek."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0013",
+      "base_name": "Onyxdrax",
+      "base_hp": 140,
+      "edition": "king-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0355",
+        "path": "vcollector-legends/art/vcl-0355-620486e819f8.webp",
+        "sha256": "620486e819f8a49551270b7db1e547e39a183fea424e10af432f2fb520d6567d",
+        "bytes": 96772
+      }
+    },
+    {
+      "id": "vcl-0356",
+      "number": 356,
+      "set_size": 1000,
+      "name": "Onyxnori — King Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "water",
+      "element_label": "Water",
+      "hp": 80,
+      "collector_points": 325,
+      "description": "Een waterwezen met kenmerken van een valk en schildpad, gestroomlijnde kop en lange gelaagde vleugels en facetten in een monumentaal pantser. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "het Kristalrif",
+      "abilities": [
+        {
+          "name": "Getijdenslag",
+          "damage": 20,
+          "energy_cost": 1,
+          "effect": "Een gerichte wateraanval; vertraging versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Diepzeewervel",
+          "damage": 40,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Kristalrif."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0014",
+      "base_name": "Onyxnori",
+      "base_hp": 70,
+      "edition": "king-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0356",
+        "path": "vcollector-legends/art/vcl-0356-02eb411dbefc.webp",
+        "sha256": "02eb411dbefcbe4a5a9faaa725fc26448ce9ff4fe3f9e7d9ba919059b85bfbef",
+        "bytes": 99298
+      }
+    },
+    {
+      "id": "vcl-0357",
+      "number": 357,
+      "set_size": 1000,
+      "name": "Orbilune — King Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "cosmic",
+      "element_label": "Kosmos",
+      "hp": 130,
+      "collector_points": 205,
+      "description": "Een kosmoswezen met kenmerken van een wolf en valk, gelaagde manen en brede beschermende poten en gestroomlijnde kop en lange gelaagde vleugels. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "de Hemelbruggen",
+      "abilities": [
+        {
+          "name": "Sterrenpuls",
+          "damage": 50,
+          "energy_cost": 1,
+          "effect": "Een gerichte kosmosaanval; sterrenstof versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Kosmische storm",
+          "damage": 90,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Hemelbruggen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0015",
+      "base_name": "Orbilune",
+      "base_hp": 120,
+      "edition": "king-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0357",
+        "path": "vcollector-legends/art/vcl-0357-652119802b54.webp",
+        "sha256": "652119802b5418b3ec39f228e8f01756db9fb6c60e29f64ac20137332a9862fa",
+        "bytes": 96764
+      }
+    },
+    {
+      "id": "vcl-0358",
+      "number": 358,
+      "set_size": 1000,
+      "name": "Caelitora — King Edition",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "wind",
+      "element_label": "Wind",
+      "hp": 130,
+      "collector_points": 1300,
+      "description": "Een windwezen met kenmerken van een walvis en beer, een massief zwevend silhouet en sterren op de flanken en een imposant silhouet en dikke glanzende vacht. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "de IJsschervenarchipel",
+      "abilities": [
+        {
+          "name": "Windstoot",
+          "damage": 50,
+          "energy_cost": 2,
+          "effect": "Een gerichte windaanval; ontwijking versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Hemelwervel",
+          "damage": 110,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de IJsschervenarchipel."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0016",
+      "base_name": "Caelitora",
+      "base_hp": 120,
+      "edition": "king-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0358",
+        "path": "vcollector-legends/art/vcl-0358-fc3c20e9ddd0.webp",
+        "sha256": "fc3c20e9ddd0dfecde2ae09a85f097aa2e46d31fc33a44bd3a3ef7c31c2cc1db",
+        "bytes": 99452
+      }
+    },
+    {
+      "id": "vcl-0359",
+      "number": 359,
+      "set_size": 1000,
+      "name": "Aerothys — King Edition",
+      "rarity": "rare",
+      "rarity_label": "Rare",
+      "element": "forest",
+      "element_label": "Natuur",
+      "hp": 160,
+      "collector_points": 2530,
+      "description": "Een natuurwezen met kenmerken van een slang en walvis, een kronkelend lang lichaam en sierlijke schubben en een massief zwevend silhouet en sterren op de flanken. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "de Koperen Hoogvlakte",
+      "abilities": [
+        {
+          "name": "Doornschild",
+          "damage": 70,
+          "energy_cost": 3,
+          "effect": "Een gerichte natuuraanval; wortelgreep versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Woudexplosie",
+          "damage": 130,
+          "energy_cost": 5,
+          "effect": "Een krachtige elementuitbarsting vanuit de Koperen Hoogvlakte."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0017",
+      "base_name": "Aerothys",
+      "base_hp": 150,
+      "edition": "king-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0359",
+        "path": "vcollector-legends/art/vcl-0359-7a89ccdeda43.webp",
+        "sha256": "7a89ccdeda43bb2c02dfb7adea9c0b8b08c9988911ba5e3925866099872568d4",
+        "bytes": 96894
+      }
+    },
+    {
+      "id": "vcl-0360",
+      "number": 360,
+      "set_size": 1000,
+      "name": "Floravori — King Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "lightning",
+      "element_label": "Bliksem",
+      "hp": 80,
+      "collector_points": 310,
+      "description": "Een bliksemwezen met kenmerken van een wolf en paard, gelaagde manen en brede beschermende poten en stromende manen en fonkelende hoefslagen. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "de Nachtelijke Tuinen",
+      "abilities": [
+        {
+          "name": "Bliksemsprong",
+          "damage": 40,
+          "energy_cost": 1,
+          "effect": "Een gerichte bliksemaanval; siddering versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Stroomstorm",
+          "damage": 50,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Nachtelijke Tuinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0018",
+      "base_name": "Floravori",
+      "base_hp": 70,
+      "edition": "king-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0360",
+        "path": "vcollector-legends/art/vcl-0360-bc012061f63d.webp",
+        "sha256": "bc012061f63d3a14bbcc4425446bade84c60d37ae380d6240c690d74415cec0e",
+        "bytes": 99664
+      }
+    },
+    {
+      "id": "vcl-0361",
+      "number": 361,
+      "set_size": 1000,
+      "name": "Nebuzuli — King Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "shadow",
+      "element_label": "Schaduw",
+      "hp": 70,
+      "collector_points": 475,
+      "description": "Een schaduwwezen met kenmerken van een walvis en draak, een massief zwevend silhouet en sterren op de flanken en kristallen hoorns en elegante vleugels. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "de Zonneduinen",
+      "abilities": [
+        {
+          "name": "Schimstap",
+          "damage": 30,
+          "energy_cost": 1,
+          "effect": "Een gerichte schaduwaanval; verblinding versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Nachteclips",
+          "damage": 60,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Zonneduinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0019",
+      "base_name": "Nebuzuli",
+      "base_hp": 60,
+      "edition": "king-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0361",
+        "path": "vcollector-legends/art/vcl-0361-9f15ef16fff1.webp",
+        "sha256": "9f15ef16fff1191661941b081f665cf375fbaf814b2c2c11024d8d4efd4bc913",
+        "bytes": 97782
+      }
+    },
+    {
+      "id": "vcl-0362",
+      "number": 362,
+      "set_size": 1000,
+      "name": "Nyxatari — King Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "ice",
+      "element_label": "IJs",
+      "hp": 70,
+      "collector_points": 220,
+      "description": "Een ijswezen met kenmerken van een slang en hert, een kronkelend lang lichaam en sierlijke schubben en vertakt lichtgevend gewei en sierlijke hoeven. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "het Sterrenwoud",
+      "abilities": [
+        {
+          "name": "Rijmslag",
+          "damage": 20,
+          "energy_cost": 1,
+          "effect": "Een gerichte ijsaanval; bevriezing versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Poolnachtstorm",
+          "damage": 50,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Sterrenwoud."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0020",
+      "base_name": "Nyxatari",
+      "base_hp": 60,
+      "edition": "king-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0362",
+        "path": "vcollector-legends/art/vcl-0362-a8cccaef8e7e.webp",
+        "sha256": "a8cccaef8e7e729e806fc62b4ce5110cf4ac020d773955e87031e291a9786888",
+        "bytes": 96570
+      }
+    },
+    {
+      "id": "vcl-0363",
+      "number": 363,
+      "set_size": 1000,
+      "name": "Jadesora — King Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "fire",
+      "element_label": "Vuur",
+      "hp": 120,
+      "collector_points": 160,
+      "description": "Een vuurwezen met kenmerken van een draak en slang, kristallen hoorns en elegante vleugels en een kronkelend lang lichaam en sierlijke schubben. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "de Maanvallei",
+      "abilities": [
+        {
+          "name": "Vonkenspoor",
+          "damage": 60,
+          "energy_cost": 1,
+          "effect": "Een gerichte vuuraanval; brand versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Infernogolf",
+          "damage": 90,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Maanvallei."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0021",
+      "base_name": "Jadesora",
+      "base_hp": 110,
+      "edition": "king-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0363",
+        "path": "vcollector-legends/art/vcl-0363-ef5c0e042f68.webp",
+        "sha256": "ef5c0e042f680272b2366f953e5d7c0caab36649e75dce7efbede5959baaa81a",
+        "bytes": 98522
+      }
+    },
+    {
+      "id": "vcl-0364",
+      "number": 364,
+      "set_size": 1000,
+      "name": "Heliodrax — King Edition",
+      "rarity": "ultra-rare",
+      "rarity_label": "Ultra-Rare",
+      "element": "forest",
+      "element_label": "Natuur",
+      "hp": 260,
+      "collector_points": 3115,
+      "description": "Een natuurwezen met kenmerken van een vos en ram, weelderige staart en grote expressieve oren en spiraalhoorns met gegraveerde patronen. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "het Kristalrif",
+      "abilities": [
+        {
+          "name": "Doornschild",
+          "damage": 100,
+          "energy_cost": 4,
+          "effect": "Een gerichte natuuraanval; wortelgreep versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Woudexplosie",
+          "damage": 170,
+          "energy_cost": 6,
+          "effect": "Een krachtige elementuitbarsting vanuit het Kristalrif."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0024",
+      "base_name": "Heliodrax",
+      "base_hp": 250,
+      "edition": "king-edition",
+      "art_style": "gold-royal-576",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0364",
+        "path": "vcollector-legends/art/vcl-0364-da0f5a77bb8b.webp",
+        "sha256": "da0f5a77bb8b2ee561fe9b40f594eca737b552465fee4fe55bc2c2b589fe1998",
+        "bytes": 98884
+      }
+    },
+    {
+      "id": "vcl-0365",
+      "number": 365,
+      "set_size": 1000,
+      "name": "Eiravyn — King Edition",
+      "rarity": "ultra-rare",
+      "rarity_label": "Ultra-Rare",
+      "element": "shadow",
+      "element_label": "Schaduw",
+      "hp": 290,
+      "collector_points": 3025,
+      "description": "Een schaduwwezen met kenmerken van een draak en schildpad, kristallen hoorns en elegante vleugels en facetten in een monumentaal pantser. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "de Vergeten Bibliotheek",
+      "abilities": [
+        {
+          "name": "Schemerknuffel",
+          "damage": 110,
+          "energy_cost": 4,
+          "effect": "Een gerichte schaduwaanval; verblinding versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Nachtbel",
+          "damage": 200,
+          "energy_cost": 6,
+          "effect": "Een krachtige elementuitbarsting vanuit de Vergeten Bibliotheek."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "art_style": "gold-royal-576",
+      "base_id": "vcl-0263",
+      "base_name": "Eiravyn",
+      "base_hp": 280,
+      "edition": "king-edition",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0365",
+        "path": "vcollector-legends/art/vcl-0365-c0d1080cbf34.webp",
+        "sha256": "c0d1080cbf343ccbbb9d76a9eabd9b2170c29b26ea8878af6a9d6fa9e24ee25b",
+        "bytes": 97702
+      }
+    },
+    {
+      "id": "vcl-0366",
+      "number": 366,
+      "set_size": 1000,
+      "name": "Florathys — King Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "ice",
+      "element_label": "IJs",
+      "hp": 70,
+      "collector_points": 10,
+      "description": "Een ijswezen met kenmerken van een vlinder en valk, brede doorschijnende vleugels met oogpatronen en gestroomlijnde kop en lange gelaagde vleugels. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "het Kristalrif",
+      "abilities": [
+        {
+          "name": "Sneeuwfladder",
+          "damage": 40,
+          "energy_cost": 1,
+          "effect": "Een gerichte ijsaanval; bevriezing versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Rijmdans",
+          "damage": 50,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Kristalrif."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "art_style": "gold-royal-576",
+      "base_id": "vcl-0264",
+      "base_name": "Florathys",
+      "base_hp": 60,
+      "edition": "king-edition",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0366",
+        "path": "vcollector-legends/art/vcl-0366-a2f063b965e3.webp",
+        "sha256": "a2f063b965e3f82c247c413e8812366cd88bf77106d5da9a7bcc5c6ddf9be480",
+        "bytes": 98786
+      }
+    },
+    {
+      "id": "vcl-0367",
+      "number": 367,
+      "set_size": 1000,
+      "name": "Heliothys — King Edition",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "water",
+      "element_label": "Water",
+      "hp": 170,
+      "collector_points": 760,
+      "description": "Een waterwezen met kenmerken van een manta en beer, vloeiende lintvinnen en een lichtgevende rug en een imposant silhouet en dikke glanzende vacht. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "de Hemelbruggen",
+      "abilities": [
+        {
+          "name": "Bubbelbrul",
+          "damage": 60,
+          "energy_cost": 2,
+          "effect": "Een gerichte wateraanval; vertraging versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Golvenpret",
+          "damage": 120,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Hemelbruggen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "art_style": "gold-royal-576",
+      "base_id": "vcl-0265",
+      "base_name": "Heliothys",
+      "base_hp": 160,
+      "edition": "king-edition",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0367",
+        "path": "vcollector-legends/art/vcl-0367-334b4b4350ac.webp",
+        "sha256": "334b4b4350acc4163992a3cc1ce60bdb7cf15a04b0f7709925aa73156bfc0086",
+        "bytes": 98670
+      }
+    },
+    {
+      "id": "vcl-0368",
+      "number": 368,
+      "set_size": 1000,
+      "name": "Dunemora — King Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "cosmic",
+      "element_label": "Kosmos",
+      "hp": 80,
+      "collector_points": 130,
+      "description": "Een kosmoswezen met kenmerken van een vos en walvis, weelderige staart en grote expressieve oren en een massief zwevend silhouet en sterren op de flanken. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "de IJsschervenarchipel",
+      "abilities": [
+        {
+          "name": "Sterrenhuppel",
+          "damage": 40,
+          "energy_cost": 1,
+          "effect": "Een gerichte kosmosaanval; sterrenstof versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Komeetkrul",
+          "damage": 50,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de IJsschervenarchipel."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "art_style": "gold-royal-576",
+      "base_id": "vcl-0266",
+      "base_name": "Dunemora",
+      "base_hp": 70,
+      "edition": "king-edition",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0368",
+        "path": "vcollector-legends/art/vcl-0368-ab2eb3d8e1dd.webp",
+        "sha256": "ab2eb3d8e1ddaba62ccdb0ccf13c9ea43102948b7b20bb4c296605a61e4ba09f",
+        "bytes": 99484
+      }
+    },
+    {
+      "id": "vcl-0369",
+      "number": 369,
+      "set_size": 1000,
+      "name": "Sylvakira — King Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "wind",
+      "element_label": "Wind",
+      "hp": 80,
+      "collector_points": 490,
+      "description": "Een windwezen met kenmerken van een hagedis en panter, een kroon van rugstekels en een lange zwiepstaart en een slank krachtig lichaam en een zwepende staart. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "de Koperen Hoogvlakte",
+      "abilities": [
+        {
+          "name": "Briespoot",
+          "damage": 20,
+          "energy_cost": 1,
+          "effect": "Een gerichte windaanval; ontwijking versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Wervelsnor",
+          "damage": 60,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Koperen Hoogvlakte."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "art_style": "gold-royal-576",
+      "base_id": "vcl-0267",
+      "base_name": "Sylvakira",
+      "base_hp": 70,
+      "edition": "king-edition",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0369",
+        "path": "vcollector-legends/art/vcl-0369-1e0bbb00e419.webp",
+        "sha256": "1e0bbb00e419890a868c163f18514fb50df9b8ad88cef0890ac3bbdeb6fb8708",
+        "bytes": 96706
+      }
+    },
+    {
+      "id": "vcl-0370",
+      "number": 370,
+      "set_size": 1000,
+      "name": "Runavex — King Edition",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "forest",
+      "element_label": "Natuur",
+      "hp": 130,
+      "collector_points": 40,
+      "description": "Een natuurwezen met kenmerken van een schildpad en wolf, facetten in een monumentaal pantser en gelaagde manen en brede beschermende poten. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "de Nachtelijke Tuinen",
+      "abilities": [
+        {
+          "name": "Moswacht",
+          "damage": 50,
+          "energy_cost": 1,
+          "effect": "Een gerichte natuuraanval; wortelgreep versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Bosgehuil",
+          "damage": 100,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Nachtelijke Tuinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "art_style": "gold-royal-576",
+      "base_id": "vcl-0268",
+      "base_name": "Runavex",
+      "base_hp": 120,
+      "edition": "king-edition",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0370",
+        "path": "vcollector-legends/art/vcl-0370-740301e0ebbd.webp",
+        "sha256": "740301e0ebbd3178ff867578a69df56b27ad622a765b017e401f07c79bf8e181",
+        "bytes": 99172
+      }
+    },
+    {
+      "id": "vcl-0371",
+      "number": 371,
+      "set_size": 1000,
+      "name": "Pyratari — King Edition",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "lightning",
+      "element_label": "Bliksem",
+      "hp": 140,
+      "collector_points": 1270,
+      "description": "Een bliksemwezen met kenmerken van een panter en hert, een slank krachtig lichaam en een zwepende staart en vertakt lichtgevend gewei en sierlijke hoeven. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "de Zonneduinen",
+      "abilities": [
+        {
+          "name": "Vonkengewei",
+          "damage": 50,
+          "energy_cost": 2,
+          "effect": "Een gerichte bliksemaanval; siddering versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Flitsjacht",
+          "damage": 110,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Zonneduinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "art_style": "gold-royal-576",
+      "base_id": "vcl-0269",
+      "base_name": "Pyratari",
+      "base_hp": 130,
+      "edition": "king-edition",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0371",
+        "path": "vcollector-legends/art/vcl-0371-3b0ce91d6bf4.webp",
+        "sha256": "3b0ce91d6bf4694fbfd0eaf7d93eedea3d1b7f7d58a143d38dd9c56e93411bac",
+        "bytes": 92166
+      }
+    },
+    {
+      "id": "vcl-0372",
+      "number": 372,
+      "set_size": 1000,
+      "name": "Embranix — King Edition",
+      "rarity": "rare",
+      "rarity_label": "Rare",
+      "element": "shadow",
+      "element_label": "Schaduw",
+      "hp": 180,
+      "collector_points": 2110,
+      "description": "Een schaduwwezen met kenmerken van een beer en slang, een imposant silhouet en dikke glanzende vacht en een kronkelend lang lichaam en sierlijke schubben. King Edition: forsere mannelijke variant met kroon, groene mantel en ceremonieel zwaard.",
+      "origin": "het Sterrenwoud",
+      "abilities": [
+        {
+          "name": "Schaduwrol",
+          "damage": 60,
+          "energy_cost": 3,
+          "effect": "Een gerichte schaduwaanval; verblinding versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Nachtkronkel",
+          "damage": 130,
+          "energy_cost": 5,
+          "effect": "Een krachtige elementuitbarsting vanuit het Sterrenwoud."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "art_style": "gold-royal-576",
+      "base_id": "vcl-0270",
+      "base_name": "Embranix",
+      "base_hp": 170,
+      "edition": "king-edition",
+      "royal_gender": "male",
+      "artwork": {
+        "model": "vcl-0372",
+        "path": "vcollector-legends/art/vcl-0372-0e06ea845be3.webp",
+        "sha256": "0e06ea845be373cd63f93b29806d4cb96e2bc7ac8a43f6fead9f4b722232abba",
+        "bytes": 91022
+      }
+    }
+  ]
+}
