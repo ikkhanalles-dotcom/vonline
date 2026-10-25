@@ -1,0 +1,1271 @@
+{
+  "format": "vcollector-legends-production-1",
+  "first": 313,
+  "last": 342,
+  "count": 30,
+  "style": "gold-hero-573",
+  "method": "built-in image_gen",
+  "hp_bonus_to_base": 10,
+  "cards": [
+    {
+      "id": "vcl-0313",
+      "number": 313,
+      "set_size": 1000,
+      "name": "Voltaris — Heldeneditie",
+      "rarity": "legendary",
+      "rarity_label": "Legendary",
+      "element": "lightning",
+      "element_label": "Bliksem",
+      "hp": 250,
+      "collector_points": 6265,
+      "description": "Een vos-draak met indigo vacht, gouden pantseraccenten, cyaan bliksemmarkeringen en een lange vlammende staart. Heldeneditie met bliksembijl.",
+      "origin": "de Maanvallei",
+      "abilities": [
+        {
+          "name": "Bliksemsprong",
+          "damage": 90,
+          "energy_cost": 5,
+          "effect": "Een gerichte bliksemaanval; siddering versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Kosmische storm",
+          "damage": 160,
+          "energy_cost": 7,
+          "effect": "Een krachtige elementuitbarsting vanuit de Maanvallei."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0001",
+      "base_hp": 240,
+      "hero_item": "bliksembijl",
+      "edition": "heldeneditie",
+      "base_name": "Voltaris",
+      "art_style": "gold-hero-573",
+      "artwork": {
+        "model": "vcl-0313",
+        "path": "vcollector-legends/art/vcl-0313-eed0fc68927f.webp",
+        "sha256": "eed0fc68927fd95d794d00ce9864dfc5e7495daf9da2ba23d6bc3a4557efff62",
+        "bytes": 169342
+      }
+    },
+    {
+      "id": "vcl-0314",
+      "number": 314,
+      "set_size": 1000,
+      "name": "Lumiko — Heldeneditie",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "light",
+      "element_label": "Licht",
+      "hp": 70,
+      "collector_points": 445,
+      "description": "Een kleine maanvos met ivoorwitte vacht, zacht gouden oorpunten en zwevende lichtparels. Heldeneditie met zonneschild.",
+      "origin": "het Fluistermoeras",
+      "abilities": [
+        {
+          "name": "Zonnestraal",
+          "damage": 20,
+          "energy_cost": 1,
+          "effect": "Een gerichte lichtaanval; herstel versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Ochtendglorie",
+          "damage": 70,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Fluistermoeras."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0002",
+      "base_hp": 60,
+      "hero_item": "zonneschild",
+      "edition": "heldeneditie",
+      "base_name": "Lumiko",
+      "art_style": "gold-hero-573",
+      "artwork": {
+        "model": "vcl-0314",
+        "path": "vcollector-legends/art/vcl-0314-8e18f45d9259.webp",
+        "sha256": "8e18f45d9259711434238d9f7418103cd38d94a2c7ffc3c00e3047573720fe03",
+        "bytes": 145936
+      }
+    },
+    {
+      "id": "vcl-0315",
+      "number": 315,
+      "set_size": 1000,
+      "name": "Floraven — Heldeneditie",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "forest",
+      "element_label": "Natuur",
+      "hp": 160,
+      "collector_points": 640,
+      "description": "Een sierlijke hert-vlinder met een kroon van bladeren, smaragdgroene ogen en doorschijnende vleugelvinnen. Heldeneditie met woudzwaard.",
+      "origin": "de Vergeten Bibliotheek",
+      "abilities": [
+        {
+          "name": "Doornschild",
+          "damage": 70,
+          "energy_cost": 2,
+          "effect": "Een gerichte natuuraanval; wortelgreep versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Woudexplosie",
+          "damage": 110,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Vergeten Bibliotheek."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0003",
+      "base_hp": 150,
+      "hero_item": "woudzwaard",
+      "edition": "heldeneditie",
+      "base_name": "Floraven",
+      "art_style": "gold-hero-573",
+      "artwork": {
+        "model": "vcl-0315",
+        "path": "vcollector-legends/art/vcl-0315-7f4c169b0edf.webp",
+        "sha256": "7f4c169b0edff4f531738246e8b5037b2d758ced741bba73608b232749bb6ba2",
+        "bytes": 173900
+      }
+    },
+    {
+      "id": "vcl-0316",
+      "number": 316,
+      "set_size": 1000,
+      "name": "Ignoryx — Heldeneditie",
+      "rarity": "rare",
+      "rarity_label": "Rare",
+      "element": "fire",
+      "element_label": "Vuur",
+      "hp": 160,
+      "collector_points": 2935,
+      "description": "Een robuuste katachtige draak met obsidiaan schubben, oranje gloedaders en een kroon van koperen hoorns. Heldeneditie met lavabijl.",
+      "origin": "het Kristalrif",
+      "abilities": [
+        {
+          "name": "Vonkenspoor",
+          "damage": 60,
+          "energy_cost": 3,
+          "effect": "Een gerichte vuuraanval; brand versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Infernogolf",
+          "damage": 110,
+          "energy_cost": 5,
+          "effect": "Een krachtige elementuitbarsting vanuit het Kristalrif."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0004",
+      "base_hp": 150,
+      "hero_item": "lavabijl",
+      "edition": "heldeneditie",
+      "base_name": "Ignoryx",
+      "art_style": "gold-hero-573",
+      "artwork": {
+        "model": "vcl-0316",
+        "path": "vcollector-legends/art/vcl-0316-34642177c50e.webp",
+        "sha256": "34642177c50e07f4a5e274433c2531e02646fc532cdad9d3c8f1f276ba619e7b",
+        "bytes": 173150
+      }
+    },
+    {
+      "id": "vcl-0317",
+      "number": 317,
+      "set_size": 1000,
+      "name": "Cryovara — Heldeneditie",
+      "rarity": "ultra-rare",
+      "rarity_label": "Ultra-Rare",
+      "element": "ice",
+      "element_label": "IJs",
+      "hp": 210,
+      "collector_points": 3475,
+      "description": "Een elegante lynx met een kristallen poolvacht, zwevende ijsscherven en een opalen staart. Heldeneditie met ijshamer.",
+      "origin": "de Hemelbruggen",
+      "abilities": [
+        {
+          "name": "Rijmslag",
+          "damage": 90,
+          "energy_cost": 4,
+          "effect": "Een gerichte ijsaanval; bevriezing versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Poolnachtstorm",
+          "damage": 130,
+          "energy_cost": 6,
+          "effect": "Een krachtige elementuitbarsting vanuit de Hemelbruggen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0005",
+      "base_hp": 200,
+      "hero_item": "ijshamer",
+      "edition": "heldeneditie",
+      "base_name": "Cryovara",
+      "art_style": "gold-hero-573",
+      "artwork": {
+        "model": "vcl-0317",
+        "path": "vcollector-legends/art/vcl-0317-90ab3775153d.webp",
+        "sha256": "90ab3775153d6e06075e557581cb5ef8f6b29b9ae6d31eb00a81be13ffd88cbb",
+        "bytes": 167392
+      }
+    },
+    {
+      "id": "vcl-0318",
+      "number": 318,
+      "set_size": 1000,
+      "name": "Runadori — Heldeneditie",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "earth",
+      "element_label": "Aarde",
+      "hp": 140,
+      "collector_points": 430,
+      "description": "Een aardewezen met kenmerken van een hert en wolf, vertakt lichtgevend gewei en sierlijke hoeven en gelaagde manen en brede beschermende poten. Heldeneditie met kristaldrietand.",
+      "origin": "de IJsschervenarchipel",
+      "abilities": [
+        {
+          "name": "Rotswacht",
+          "damage": 60,
+          "energy_cost": 1,
+          "effect": "Een gerichte aardeaanval; pantser versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Bergbreker",
+          "damage": 90,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de IJsschervenarchipel."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0006",
+      "base_hp": 130,
+      "hero_item": "kristaldrietand",
+      "edition": "heldeneditie",
+      "base_name": "Runadori",
+      "art_style": "gold-hero-573",
+      "artwork": {
+        "model": "vcl-0318",
+        "path": "vcollector-legends/art/vcl-0318-844c8f328a56.webp",
+        "sha256": "844c8f328a567061f8bcf5533881ce56b7d2f3c596c4fee4a9bcaa311a2b1a1b",
+        "bytes": 172358
+      }
+    },
+    {
+      "id": "vcl-0319",
+      "number": 319,
+      "set_size": 1000,
+      "name": "Umbranix — Heldeneditie",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "water",
+      "element_label": "Water",
+      "hp": 100,
+      "collector_points": 100,
+      "description": "Een waterwezen met kenmerken van een paard en hert, stromende manen en fonkelende hoefslagen en vertakt lichtgevend gewei en sierlijke hoeven. Heldeneditie met getijdenboog.",
+      "origin": "de Koperen Hoogvlakte",
+      "abilities": [
+        {
+          "name": "Getijdenslag",
+          "damage": 50,
+          "energy_cost": 1,
+          "effect": "Een gerichte wateraanval; vertraging versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Diepzeewervel",
+          "damage": 70,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Koperen Hoogvlakte."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0007",
+      "base_hp": 90,
+      "hero_item": "getijdenboog",
+      "edition": "heldeneditie",
+      "base_name": "Umbranix",
+      "art_style": "gold-hero-573",
+      "artwork": {
+        "model": "vcl-0319",
+        "path": "vcollector-legends/art/vcl-0319-fe481bd33c74.webp",
+        "sha256": "fe481bd33c74d95cfad4f5deb2fec904800eb804bc1b571f7a92d1ff7563b94d",
+        "bytes": 177394
+      }
+    },
+    {
+      "id": "vcl-0320",
+      "number": 320,
+      "set_size": 1000,
+      "name": "Lunatari — Heldeneditie",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "cosmic",
+      "element_label": "Kosmos",
+      "hp": 140,
+      "collector_points": 385,
+      "description": "Een kosmoswezen met kenmerken van een haas en slang, lange oren en springkrachtige achterpoten en een kronkelend lang lichaam en sierlijke schubben. Heldeneditie met kristalspeer.",
+      "origin": "de Nachtelijke Tuinen",
+      "abilities": [
+        {
+          "name": "Sterrenpuls",
+          "damage": 60,
+          "energy_cost": 1,
+          "effect": "Een gerichte kosmosaanval; sterrenstof versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Kosmische storm",
+          "damage": 110,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Nachtelijke Tuinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0008",
+      "base_hp": 130,
+      "hero_item": "kristalspeer",
+      "edition": "heldeneditie",
+      "base_name": "Lunatari",
+      "art_style": "gold-hero-573",
+      "artwork": {
+        "model": "vcl-0320",
+        "path": "vcollector-legends/art/vcl-0320-1c18d4052006.webp",
+        "sha256": "1c18d40520061f3aca2601b0ec9885b63131ab66e295fa5a6c265fb22ac57f08",
+        "bytes": 170680
+      }
+    },
+    {
+      "id": "vcl-0321",
+      "number": 321,
+      "set_size": 1000,
+      "name": "Sylvazuli — Heldeneditie",
+      "rarity": "ultra-rare",
+      "rarity_label": "Ultra-Rare",
+      "element": "wind",
+      "element_label": "Wind",
+      "hp": 200,
+      "collector_points": 3505,
+      "description": "Een windwezen met kenmerken van een lynx en haas, lange oorpluimen en een gespierde katachtige houding en lange oren en springkrachtige achterpoten. Heldeneditie met stormzwaard.",
+      "origin": "de Zonneduinen",
+      "abilities": [
+        {
+          "name": "Windstoot",
+          "damage": 70,
+          "energy_cost": 4,
+          "effect": "Een gerichte windaanval; ontwijking versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Hemelwervel",
+          "damage": 150,
+          "energy_cost": 6,
+          "effect": "Een krachtige elementuitbarsting vanuit de Zonneduinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0009",
+      "base_hp": 190,
+      "hero_item": "stormzwaard",
+      "edition": "heldeneditie",
+      "base_name": "Sylvazuli",
+      "art_style": "gold-hero-573",
+      "artwork": {
+        "model": "vcl-0321",
+        "path": "vcollector-legends/art/vcl-0321-8374eb46d1e8.webp",
+        "sha256": "8374eb46d1e8b090041504a2b74a393b975febc9a46af66dc1545d4f72c8c7ea",
+        "bytes": 162932
+      }
+    },
+    {
+      "id": "vcl-0322",
+      "number": 322,
+      "set_size": 1000,
+      "name": "Onyxvex — Heldeneditie",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "forest",
+      "element_label": "Natuur",
+      "hp": 100,
+      "collector_points": 445,
+      "description": "Een natuurwezen met kenmerken van een ram en vlinder, spiraalhoorns met gegraveerde patronen en brede doorschijnende vleugels met oogpatronen. Heldeneditie met woudbijl.",
+      "origin": "het Sterrenwoud",
+      "abilities": [
+        {
+          "name": "Doornschild",
+          "damage": 50,
+          "energy_cost": 1,
+          "effect": "Een gerichte natuuraanval; wortelgreep versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Woudexplosie",
+          "damage": 70,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Sterrenwoud."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0010",
+      "base_hp": 90,
+      "hero_item": "woudbijl",
+      "edition": "heldeneditie",
+      "base_name": "Onyxvex",
+      "art_style": "gold-hero-573",
+      "artwork": {
+        "model": "vcl-0322",
+        "path": "vcollector-legends/art/vcl-0322-ed62409a5157.webp",
+        "sha256": "ed62409a51576cd75b3623820b42fa86540a801109e794112a647f7985e6b097",
+        "bytes": 171768
+      }
+    },
+    {
+      "id": "vcl-0323",
+      "number": 323,
+      "set_size": 1000,
+      "name": "Eiramiko — Heldeneditie",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "lightning",
+      "element_label": "Bliksem",
+      "hp": 170,
+      "collector_points": 1255,
+      "description": "Een bliksemwezen met kenmerken van een panda en ram, ronde oren en fluwelige contrasterende vacht en spiraalhoorns met gegraveerde patronen. Heldeneditie met sterrenschild.",
+      "origin": "de Maanvallei",
+      "abilities": [
+        {
+          "name": "Bliksemsprong",
+          "damage": 80,
+          "energy_cost": 2,
+          "effect": "Een gerichte bliksemaanval; siddering versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Stroomstorm",
+          "damage": 100,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Maanvallei."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0011",
+      "base_hp": 160,
+      "hero_item": "sterrenschild",
+      "edition": "heldeneditie",
+      "base_name": "Eiramiko",
+      "art_style": "gold-hero-573",
+      "artwork": {
+        "model": "vcl-0323",
+        "path": "vcollector-legends/art/vcl-0323-c3a783f1c1e0.webp",
+        "sha256": "c3a783f1c1e0496c6eb8492fbbe57da0b1ba051df29c8ce3dc32ffe67af7db5f",
+        "bytes": 164360
+      }
+    },
+    {
+      "id": "vcl-0324",
+      "number": 324,
+      "set_size": 1000,
+      "name": "Quarnix — Heldeneditie",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "light",
+      "element_label": "Licht",
+      "hp": 70,
+      "collector_points": 160,
+      "description": "Een lichtwezen met kenmerken van een uil en vos, zwevende veerkrans en glanzende slagpennen en weelderige staart en grote expressieve oren. Heldeneditie met zonnehamer.",
+      "origin": "het Fluistermoeras",
+      "abilities": [
+        {
+          "name": "Zonnestraal",
+          "damage": 30,
+          "energy_cost": 1,
+          "effect": "Een gerichte lichtaanval; herstel versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Ochtendglorie",
+          "damage": 70,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Fluistermoeras."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0012",
+      "base_hp": 60,
+      "hero_item": "zonnehamer",
+      "edition": "heldeneditie",
+      "base_name": "Quarnix",
+      "art_style": "gold-hero-573",
+      "artwork": {
+        "model": "vcl-0324",
+        "path": "vcollector-legends/art/vcl-0324-a5c51ff1da27.webp",
+        "sha256": "a5c51ff1da27b3bf53b50a0ddb31b4cacaeeebde6ff4723aaee01e83916f59af",
+        "bytes": 164694
+      }
+    },
+    {
+      "id": "vcl-0325",
+      "number": 325,
+      "set_size": 1000,
+      "name": "Onyxdrax — Heldeneditie",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "earth",
+      "element_label": "Aarde",
+      "hp": 150,
+      "collector_points": 670,
+      "description": "Een aardewezen met kenmerken van een raaf en uil, een kraag van glanzende veren en vurige ogen en zwevende veerkrans en glanzende slagpennen. Heldeneditie met lichtstaf.",
+      "origin": "de Vergeten Bibliotheek",
+      "abilities": [
+        {
+          "name": "Rotswacht",
+          "damage": 50,
+          "energy_cost": 2,
+          "effect": "Een gerichte aardeaanval; pantser versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Bergbreker",
+          "damage": 90,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Vergeten Bibliotheek."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0013",
+      "base_hp": 140,
+      "hero_item": "lichtstaf",
+      "edition": "heldeneditie",
+      "base_name": "Onyxdrax",
+      "art_style": "gold-hero-573",
+      "artwork": {
+        "model": "vcl-0325",
+        "path": "vcollector-legends/art/vcl-0325-4a1aeea9d1b9.webp",
+        "sha256": "4a1aeea9d1b9c99b2aa2b3d0421021f921360057faffedde20b1629ac14b40f2",
+        "bytes": 163284
+      }
+    },
+    {
+      "id": "vcl-0326",
+      "number": 326,
+      "set_size": 1000,
+      "name": "Onyxnori — Heldeneditie",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "water",
+      "element_label": "Water",
+      "hp": 80,
+      "collector_points": 325,
+      "description": "Een waterwezen met kenmerken van een valk en schildpad, gestroomlijnde kop en lange gelaagde vleugels en facetten in een monumentaal pantser. Heldeneditie met getijdenspeer.",
+      "origin": "het Kristalrif",
+      "abilities": [
+        {
+          "name": "Getijdenslag",
+          "damage": 20,
+          "energy_cost": 1,
+          "effect": "Een gerichte wateraanval; vertraging versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Diepzeewervel",
+          "damage": 40,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Kristalrif."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0014",
+      "base_hp": 70,
+      "hero_item": "getijdenspeer",
+      "edition": "heldeneditie",
+      "base_name": "Onyxnori",
+      "art_style": "gold-hero-573",
+      "artwork": {
+        "model": "vcl-0326",
+        "path": "vcollector-legends/art/vcl-0326-15816d59ba94.webp",
+        "sha256": "15816d59ba949728555c31181eb8a3dbc64f3ab219a1a69119adaa5787b78f93",
+        "bytes": 177470
+      }
+    },
+    {
+      "id": "vcl-0327",
+      "number": 327,
+      "set_size": 1000,
+      "name": "Orbilune — Heldeneditie",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "cosmic",
+      "element_label": "Kosmos",
+      "hp": 130,
+      "collector_points": 205,
+      "description": "Een kosmoswezen met kenmerken van een wolf en valk, gelaagde manen en brede beschermende poten en gestroomlijnde kop en lange gelaagde vleugels. Heldeneditie met kosmische speer.",
+      "origin": "de Hemelbruggen",
+      "abilities": [
+        {
+          "name": "Sterrenpuls",
+          "damage": 50,
+          "energy_cost": 1,
+          "effect": "Een gerichte kosmosaanval; sterrenstof versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Kosmische storm",
+          "damage": 90,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Hemelbruggen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0015",
+      "base_hp": 120,
+      "hero_item": "kosmische speer",
+      "edition": "heldeneditie",
+      "base_name": "Orbilune",
+      "art_style": "gold-hero-573",
+      "artwork": {
+        "model": "vcl-0327",
+        "path": "vcollector-legends/art/vcl-0327-6fa6b33b51c9.webp",
+        "sha256": "6fa6b33b51c950035eda4c91d34eb298c1f00ff7d1e2170a8e9cb8212f29da6d",
+        "bytes": 164808
+      }
+    },
+    {
+      "id": "vcl-0328",
+      "number": 328,
+      "set_size": 1000,
+      "name": "Caelitora — Heldeneditie",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "wind",
+      "element_label": "Wind",
+      "hp": 130,
+      "collector_points": 1300,
+      "description": "Een windwezen met kenmerken van een walvis en beer, een massief zwevend silhouet en sterren op de flanken en een imposant silhouet en dikke glanzende vacht. Heldeneditie met ijsschild.",
+      "origin": "de IJsschervenarchipel",
+      "abilities": [
+        {
+          "name": "Windstoot",
+          "damage": 50,
+          "energy_cost": 2,
+          "effect": "Een gerichte windaanval; ontwijking versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Hemelwervel",
+          "damage": 110,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de IJsschervenarchipel."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0016",
+      "base_hp": 120,
+      "hero_item": "ijsschild",
+      "edition": "heldeneditie",
+      "base_name": "Caelitora",
+      "art_style": "gold-hero-573",
+      "artwork": {
+        "model": "vcl-0328",
+        "path": "vcollector-legends/art/vcl-0328-e7994f32c099.webp",
+        "sha256": "e7994f32c0992827df46ad5ae40f42dee87fddc6e022d1cc6b03c97260fe2a9e",
+        "bytes": 169120
+      }
+    },
+    {
+      "id": "vcl-0329",
+      "number": 329,
+      "set_size": 1000,
+      "name": "Aerothys — Heldeneditie",
+      "rarity": "rare",
+      "rarity_label": "Rare",
+      "element": "forest",
+      "element_label": "Natuur",
+      "hp": 160,
+      "collector_points": 2530,
+      "description": "Een natuurwezen met kenmerken van een slang en walvis, een kronkelend lang lichaam en sierlijke schubben en een massief zwevend silhouet en sterren op de flanken. Heldeneditie met windboemerang.",
+      "origin": "de Koperen Hoogvlakte",
+      "abilities": [
+        {
+          "name": "Doornschild",
+          "damage": 70,
+          "energy_cost": 3,
+          "effect": "Een gerichte natuuraanval; wortelgreep versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Woudexplosie",
+          "damage": 130,
+          "energy_cost": 5,
+          "effect": "Een krachtige elementuitbarsting vanuit de Koperen Hoogvlakte."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0017",
+      "base_hp": 150,
+      "hero_item": "windboemerang",
+      "edition": "heldeneditie",
+      "base_name": "Aerothys",
+      "art_style": "gold-hero-573",
+      "artwork": {
+        "model": "vcl-0329",
+        "path": "vcollector-legends/art/vcl-0329-9683c353c576.webp",
+        "sha256": "9683c353c5760829939586f7d6ca53ed9de5392e378694090a1f86336fb06144",
+        "bytes": 170852
+      }
+    },
+    {
+      "id": "vcl-0330",
+      "number": 330,
+      "set_size": 1000,
+      "name": "Floravori — Heldeneditie",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "lightning",
+      "element_label": "Bliksem",
+      "hp": 80,
+      "collector_points": 310,
+      "description": "Een bliksemwezen met kenmerken van een wolf en paard, gelaagde manen en brede beschermende poten en stromende manen en fonkelende hoefslagen. Heldeneditie met runenbijl.",
+      "origin": "de Nachtelijke Tuinen",
+      "abilities": [
+        {
+          "name": "Bliksemsprong",
+          "damage": 40,
+          "energy_cost": 1,
+          "effect": "Een gerichte bliksemaanval; siddering versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Stroomstorm",
+          "damage": 50,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Nachtelijke Tuinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0018",
+      "base_hp": 70,
+      "hero_item": "runenbijl",
+      "edition": "heldeneditie",
+      "base_name": "Floravori",
+      "art_style": "gold-hero-573",
+      "artwork": {
+        "model": "vcl-0330",
+        "path": "vcollector-legends/art/vcl-0330-05f1eba18071.webp",
+        "sha256": "05f1eba18071e56b15536c2c6513e31717152dc3107d63d73978eb0c157ef636",
+        "bytes": 169522
+      }
+    },
+    {
+      "id": "vcl-0331",
+      "number": 331,
+      "set_size": 1000,
+      "name": "Nebuzuli — Heldeneditie",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "shadow",
+      "element_label": "Schaduw",
+      "hp": 70,
+      "collector_points": 475,
+      "description": "Een schaduwwezen met kenmerken van een walvis en draak, een massief zwevend silhouet en sterren op de flanken en kristallen hoorns en elegante vleugels. Heldeneditie met oceaanzwaard.",
+      "origin": "de Zonneduinen",
+      "abilities": [
+        {
+          "name": "Schimstap",
+          "damage": 30,
+          "energy_cost": 1,
+          "effect": "Een gerichte schaduwaanval; verblinding versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Nachteclips",
+          "damage": 60,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Zonneduinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0019",
+      "base_hp": 60,
+      "hero_item": "oceaanzwaard",
+      "edition": "heldeneditie",
+      "base_name": "Nebuzuli",
+      "art_style": "gold-hero-573",
+      "artwork": {
+        "model": "vcl-0331",
+        "path": "vcollector-legends/art/vcl-0331-e2b105804ab4.webp",
+        "sha256": "e2b105804ab49ec046beae821b12fa2ca55b6add87898204ae1cb2dd8b17eb37",
+        "bytes": 165366
+      }
+    },
+    {
+      "id": "vcl-0332",
+      "number": 332,
+      "set_size": 1000,
+      "name": "Nyxatari — Heldeneditie",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "ice",
+      "element_label": "IJs",
+      "hp": 70,
+      "collector_points": 220,
+      "description": "Een ijswezen met kenmerken van een slang en hert, een kronkelend lang lichaam en sierlijke schubben en vertakt lichtgevend gewei en sierlijke hoeven. Heldeneditie met ijshamer.",
+      "origin": "het Sterrenwoud",
+      "abilities": [
+        {
+          "name": "Rijmslag",
+          "damage": 20,
+          "energy_cost": 1,
+          "effect": "Een gerichte ijsaanval; bevriezing versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Poolnachtstorm",
+          "damage": 50,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Sterrenwoud."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0020",
+      "base_hp": 60,
+      "hero_item": "ijshamer",
+      "edition": "heldeneditie",
+      "base_name": "Nyxatari",
+      "art_style": "gold-hero-573",
+      "artwork": {
+        "model": "vcl-0332",
+        "path": "vcollector-legends/art/vcl-0332-83c0ad096a88.webp",
+        "sha256": "83c0ad096a887a95a570fb5168cf35e8dedffbe93d2e9a1ad64e6480de574e84",
+        "bytes": 177720
+      }
+    },
+    {
+      "id": "vcl-0333",
+      "number": 333,
+      "set_size": 1000,
+      "name": "Jadesora — Heldeneditie",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "fire",
+      "element_label": "Vuur",
+      "hp": 120,
+      "collector_points": 160,
+      "description": "Een vuurwezen met kenmerken van een draak en slang, kristallen hoorns en elegante vleugels en een kronkelend lang lichaam en sierlijke schubben. Heldeneditie met vlammenboog.",
+      "origin": "de Maanvallei",
+      "abilities": [
+        {
+          "name": "Vonkenspoor",
+          "damage": 60,
+          "energy_cost": 1,
+          "effect": "Een gerichte vuuraanval; brand versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Infernogolf",
+          "damage": 90,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Maanvallei."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0021",
+      "base_hp": 110,
+      "hero_item": "vlammenboog",
+      "edition": "heldeneditie",
+      "base_name": "Jadesora",
+      "art_style": "gold-hero-573",
+      "artwork": {
+        "model": "vcl-0333",
+        "path": "vcollector-legends/art/vcl-0333-66e2dbcdefcd.webp",
+        "sha256": "66e2dbcdefcdbf45a8e3fbbe5caf2ce1e07e8ce1d30aba1d0f65a889c2711483",
+        "bytes": 166902
+      }
+    },
+    {
+      "id": "vcl-0334",
+      "number": 334,
+      "set_size": 1000,
+      "name": "Ignazuli — Heldeneditie",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "light",
+      "element_label": "Licht",
+      "hp": 160,
+      "collector_points": 925,
+      "description": "Een lichtwezen met kenmerken van een vlinder en haas, brede doorschijnende vleugels met oogpatronen en lange oren en springkrachtige achterpoten. Heldeneditie met komeetspeer.",
+      "origin": "het Fluistermoeras",
+      "abilities": [
+        {
+          "name": "Zonnestraal",
+          "damage": 60,
+          "energy_cost": 2,
+          "effect": "Een gerichte lichtaanval; herstel versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Ochtendglorie",
+          "damage": 110,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit het Fluistermoeras."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "base_id": "vcl-0022",
+      "base_hp": 150,
+      "hero_item": "komeetspeer",
+      "edition": "heldeneditie",
+      "base_name": "Ignazuli",
+      "art_style": "gold-hero-573",
+      "artwork": {
+        "model": "vcl-0334",
+        "path": "vcollector-legends/art/vcl-0334-d40e8412336c.webp",
+        "sha256": "d40e8412336ccf1d424891028f8752226573afbf9251b5cc1785a5cde49423fe",
+        "bytes": 153212
+      }
+    },
+    {
+      "id": "vcl-0335",
+      "number": 335,
+      "set_size": 1000,
+      "name": "Eiravyn — Heldeneditie",
+      "rarity": "ultra-rare",
+      "rarity_label": "Ultra-Rare",
+      "element": "shadow",
+      "element_label": "Schaduw",
+      "hp": 290,
+      "collector_points": 3025,
+      "description": "Een schaduwwezen met kenmerken van een draak en schildpad, kristallen hoorns en elegante vleugels en facetten in een monumentaal pantser. Heldeneditie met schemerzwaard.",
+      "origin": "de Vergeten Bibliotheek",
+      "abilities": [
+        {
+          "name": "Schemerknuffel",
+          "damage": 110,
+          "energy_cost": 4,
+          "effect": "Een gerichte schaduwaanval; verblinding versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Nachtbel",
+          "damage": 200,
+          "energy_cost": 6,
+          "effect": "Een krachtige elementuitbarsting vanuit de Vergeten Bibliotheek."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "art_style": "gold-hero-573",
+      "base_id": "vcl-0263",
+      "base_hp": 280,
+      "hero_item": "schemerzwaard",
+      "edition": "heldeneditie",
+      "base_name": "Eiravyn",
+      "artwork": {
+        "model": "vcl-0335",
+        "path": "vcollector-legends/art/vcl-0335-2347ee29fec0.webp",
+        "sha256": "2347ee29fec0659bf54bd43c67c9738007c6c83f2bd5c693cf8823740b79947c",
+        "bytes": 162904
+      }
+    },
+    {
+      "id": "vcl-0336",
+      "number": 336,
+      "set_size": 1000,
+      "name": "Florathys — Heldeneditie",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "ice",
+      "element_label": "IJs",
+      "hp": 70,
+      "collector_points": 10,
+      "description": "Een ijswezen met kenmerken van een vlinder en valk, brede doorschijnende vleugels met oogpatronen en gestroomlijnde kop en lange gelaagde vleugels. Heldeneditie met kristalbijl.",
+      "origin": "het Kristalrif",
+      "abilities": [
+        {
+          "name": "Sneeuwfladder",
+          "damage": 40,
+          "energy_cost": 1,
+          "effect": "Een gerichte ijsaanval; bevriezing versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Rijmdans",
+          "damage": 50,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit het Kristalrif."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "art_style": "gold-hero-573",
+      "base_id": "vcl-0264",
+      "base_hp": 60,
+      "hero_item": "kristalbijl",
+      "edition": "heldeneditie",
+      "base_name": "Florathys",
+      "artwork": {
+        "model": "vcl-0336",
+        "path": "vcollector-legends/art/vcl-0336-4e41a02ce0ea.webp",
+        "sha256": "4e41a02ce0ea55c34c13fd7ebc79d73ac78c5c626bd90c238230bc9fd843cd96",
+        "bytes": 171006
+      }
+    },
+    {
+      "id": "vcl-0337",
+      "number": 337,
+      "set_size": 1000,
+      "name": "Heliothys — Heldeneditie",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "water",
+      "element_label": "Water",
+      "hp": 170,
+      "collector_points": 760,
+      "description": "Een waterwezen met kenmerken van een manta en beer, vloeiende lintvinnen en een lichtgevende rug en een imposant silhouet en dikke glanzende vacht. Heldeneditie met getijdenschild.",
+      "origin": "de Hemelbruggen",
+      "abilities": [
+        {
+          "name": "Bubbelbrul",
+          "damage": 60,
+          "energy_cost": 2,
+          "effect": "Een gerichte wateraanval; vertraging versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Golvenpret",
+          "damage": 120,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Hemelbruggen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "art_style": "gold-hero-573",
+      "base_id": "vcl-0265",
+      "base_hp": 160,
+      "hero_item": "getijdenschild",
+      "edition": "heldeneditie",
+      "base_name": "Heliothys",
+      "artwork": {
+        "model": "vcl-0337",
+        "path": "vcollector-legends/art/vcl-0337-9dc48d30ae01.webp",
+        "sha256": "9dc48d30ae01d48875aefd667dfb08d472cb468c37f736f895449105f6c503dc",
+        "bytes": 171424
+      }
+    },
+    {
+      "id": "vcl-0338",
+      "number": 338,
+      "set_size": 1000,
+      "name": "Dunemora — Heldeneditie",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "cosmic",
+      "element_label": "Kosmos",
+      "hp": 80,
+      "collector_points": 130,
+      "description": "Een kosmoswezen met kenmerken van een vos en walvis, weelderige staart en grote expressieve oren en een massief zwevend silhouet en sterren op de flanken. Heldeneditie met sterrenhamer.",
+      "origin": "de IJsschervenarchipel",
+      "abilities": [
+        {
+          "name": "Sterrenhuppel",
+          "damage": 40,
+          "energy_cost": 1,
+          "effect": "Een gerichte kosmosaanval; sterrenstof versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Komeetkrul",
+          "damage": 50,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de IJsschervenarchipel."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "art_style": "gold-hero-573",
+      "base_id": "vcl-0266",
+      "base_hp": 70,
+      "hero_item": "sterrenhamer",
+      "edition": "heldeneditie",
+      "base_name": "Dunemora",
+      "artwork": {
+        "model": "vcl-0338",
+        "path": "vcollector-legends/art/vcl-0338-5b8e617611e8.webp",
+        "sha256": "5b8e617611e8aa4c09482de17defcfd64841b96290bbcb31360d76e23aa3234b",
+        "bytes": 166830
+      }
+    },
+    {
+      "id": "vcl-0339",
+      "number": 339,
+      "set_size": 1000,
+      "name": "Sylvakira — Heldeneditie",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "wind",
+      "element_label": "Wind",
+      "hp": 80,
+      "collector_points": 490,
+      "description": "Een windwezen met kenmerken van een hagedis en panter, een kroon van rugstekels en een lange zwiepstaart en een slank krachtig lichaam en een zwepende staart. Heldeneditie met windboog.",
+      "origin": "de Koperen Hoogvlakte",
+      "abilities": [
+        {
+          "name": "Briespoot",
+          "damage": 20,
+          "energy_cost": 1,
+          "effect": "Een gerichte windaanval; ontwijking versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Wervelsnor",
+          "damage": 60,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Koperen Hoogvlakte."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "art_style": "gold-hero-573",
+      "base_id": "vcl-0267",
+      "base_hp": 70,
+      "hero_item": "windboog",
+      "edition": "heldeneditie",
+      "base_name": "Sylvakira",
+      "artwork": {
+        "model": "vcl-0339",
+        "path": "vcollector-legends/art/vcl-0339-aaed49ac6200.webp",
+        "sha256": "aaed49ac6200cebc87131eb2d5f880a18db5eb46eb8f8af7a7f466aecc77972a",
+        "bytes": 167642
+      }
+    },
+    {
+      "id": "vcl-0340",
+      "number": 340,
+      "set_size": 1000,
+      "name": "Runavex — Heldeneditie",
+      "rarity": "common",
+      "rarity_label": "Common",
+      "element": "forest",
+      "element_label": "Natuur",
+      "hp": 130,
+      "collector_points": 40,
+      "description": "Een natuurwezen met kenmerken van een schildpad en wolf, facetten in een monumentaal pantser en gelaagde manen en brede beschermende poten. Heldeneditie met maanhamer.",
+      "origin": "de Nachtelijke Tuinen",
+      "abilities": [
+        {
+          "name": "Moswacht",
+          "damage": 50,
+          "energy_cost": 1,
+          "effect": "Een gerichte natuuraanval; wortelgreep versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Bosgehuil",
+          "damage": 100,
+          "energy_cost": 3,
+          "effect": "Een krachtige elementuitbarsting vanuit de Nachtelijke Tuinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "art_style": "gold-hero-573",
+      "base_id": "vcl-0268",
+      "base_hp": 120,
+      "hero_item": "maanhamer",
+      "edition": "heldeneditie",
+      "base_name": "Runavex",
+      "artwork": {
+        "model": "vcl-0340",
+        "path": "vcollector-legends/art/vcl-0340-74992f373c8b.webp",
+        "sha256": "74992f373c8b4f999d7dba4f957d2fecbb34bc101846933bf8f033eda9a0d7d3",
+        "bytes": 166048
+      }
+    },
+    {
+      "id": "vcl-0341",
+      "number": 341,
+      "set_size": 1000,
+      "name": "Pyratari — Heldeneditie",
+      "rarity": "uncommon",
+      "rarity_label": "Uncommon",
+      "element": "lightning",
+      "element_label": "Bliksem",
+      "hp": 140,
+      "collector_points": 1270,
+      "description": "Een bliksemwezen met kenmerken van een panter en hert, een slank krachtig lichaam en een zwepende staart en vertakt lichtgevend gewei en sierlijke hoeven. Heldeneditie met vlammenzwaard.",
+      "origin": "de Zonneduinen",
+      "abilities": [
+        {
+          "name": "Vonkengewei",
+          "damage": 50,
+          "energy_cost": 2,
+          "effect": "Een gerichte bliksemaanval; siddering versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Flitsjacht",
+          "damage": 110,
+          "energy_cost": 4,
+          "effect": "Een krachtige elementuitbarsting vanuit de Zonneduinen."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "art_style": "gold-hero-573",
+      "base_id": "vcl-0269",
+      "base_hp": 130,
+      "hero_item": "vlammenzwaard",
+      "edition": "heldeneditie",
+      "base_name": "Pyratari",
+      "artwork": {
+        "model": "vcl-0341",
+        "path": "vcollector-legends/art/vcl-0341-12afe38eea91.webp",
+        "sha256": "12afe38eea911f47103d5ede784179f6aacb4f826b20a1d9344baff3f1ae8b41",
+        "bytes": 157644
+      }
+    },
+    {
+      "id": "vcl-0342",
+      "number": 342,
+      "set_size": 1000,
+      "name": "Embranix — Heldeneditie",
+      "rarity": "rare",
+      "rarity_label": "Rare",
+      "element": "shadow",
+      "element_label": "Schaduw",
+      "hp": 180,
+      "collector_points": 2110,
+      "description": "Een schaduwwezen met kenmerken van een beer en slang, een imposant silhouet en dikke glanzende vacht en een kronkelend lang lichaam en sierlijke schubben. Heldeneditie met schaduwbijl.",
+      "origin": "het Sterrenwoud",
+      "abilities": [
+        {
+          "name": "Schaduwrol",
+          "damage": 60,
+          "energy_cost": 3,
+          "effect": "Een gerichte schaduwaanval; verblinding versterkt de uitstraling van deze kaart."
+        },
+        {
+          "name": "Nachtkronkel",
+          "damage": 130,
+          "energy_cost": 5,
+          "effect": "Een krachtige elementuitbarsting vanuit het Sterrenwoud."
+        }
+      ],
+      "stats_use": "Verzamelkaartstatistieken; er is nog geen gevechtssysteem gekoppeld.",
+      "editable": false,
+      "art_style": "gold-hero-573",
+      "base_id": "vcl-0270",
+      "base_hp": 170,
+      "hero_item": "schaduwbijl",
+      "edition": "heldeneditie",
+      "base_name": "Embranix",
+      "artwork": {
+        "model": "vcl-0342",
+        "path": "vcollector-legends/art/vcl-0342-2b80bd5bbd9f.webp",
+        "sha256": "2b80bd5bbd9f7af74fe1b867e2d4a68790b428965602c3b5f11369690aa91484",
+        "bytes": 168656
+      }
+    }
+  ]
+}
